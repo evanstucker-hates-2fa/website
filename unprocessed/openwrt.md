@@ -58,4 +58,5 @@ Set WAN6 to /56 prefix so you can use /64s for guest and LAN interfaces
 
 ## Installing more crap
 
-opkg install diffutils
+opkg install diffutils # for `diff`
+opkg install vim-fuller # for `vim -d`
