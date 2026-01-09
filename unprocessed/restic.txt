@@ -1,0 +1,21 @@
+export RESTIC_PASSWORD_FILE=REDACTED
+export RESTIC_REPOSITORY='sftp:redacted@redacted.rsync.net:restic-repo'
+export log_file="/root/restic.$(date +%s).log"
+
+restic check
+
+# I'm not using --exclude-caches, because only 3 dirs have it. I'm just going to use --exclude-file instead.
+restic backup \
+  --compression auto \
+  --exclude-file /srv/backup_exclusions.txt \
+  --one-file-system \
+  --verbose=2 \
+  /srv |& tee "$log_file"
+
+# I've tested this, and used it to recover data once. I should probably capture the command next time I need to do it.
+restic restore
+
+restic stats
+restic snapshots
+restic forget --keep-last 10
+restic prune
