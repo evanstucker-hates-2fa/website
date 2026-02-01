@@ -521,3 +521,8 @@ done
 ```
 k delete pods -A --field-selector=status.phase=Failed
 ```
+
+## View all dockerconfig secrets
+```
+k get secrets -A --field-selector='type=kubernetes.io/dockerconfigjson' -o json | jq -r '.items[] | "\(.metadata.namespace) \(.metadata.name) \(.data[".dockerconfigjson"] |= @base64d | .data[".dockerconfigjson"] | fromjson.auths | .[] | .auth |= @base64d)"' | column -t
+```
