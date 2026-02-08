@@ -1,627 +1,2473 @@
 [
-  {"_title":"12 Monkeys","rating":"4"},
-  {"_title":"21 Jump Street","rating":"4"},
-  {"_title":"8-bit Christmas","rating":"2"},
-  {"_title":"A Bug's Life","rating":"2"},
-  {"_title":"A Christmas Story","rating":"2"},
-  {"_title":"A Minecraft Movie","rating":"4"},
-  {"_title":"A Quiet Place Part II","rating":"3"},
-  {"_title":"A Quiet Place","rating":"3"},
-  {"_title":"A Quiet Place: Day One","rating":"3"},
-  {"_title":"A Serious Man","rating":"2"},
-  {"_title":"A Simple Favor"},
-  {"_title":"A Turtle's Tale: Sammy's Adventures","rating":"4","review":"Corbin loved this movie when he was little."},
-  {"_title":"A Wrinkle in Time","rating":"2"},
-  {"_title":"Adaptation"},
-  {"_title":"Adult Swim Yule Log","rating":"2"},
-  {"_title":"Airplane!"},
-  {"_title":"Aladdin (1992)","rating":"2"},
-  {"_title":"Alice in Wonderland","rating":"4"},
-  {"_title":"Alita battle angel","rating":"4"},
-  {"_title":"All is Lost","rating":"4"},
-  {"_title":"Altered Carbon: Resleeved","rating":"2"},
-  {"_title":"Amelie","rating":"4"},
-  {"_title":"America: The Motion Picture","rating":"0","review":"So bad that I barely made it past the exposition."},
-  {"_title":"American Ultra","rating":"2","review":"decent. not amazing."},
-  {"_title":"Anon","rating":"2"},
-  {"_title":"Another Simple Favor"},
-  {"_title":"Ant-Man and the Wasp","rating":"2"},
-  {"_title":"Ant-Man","rating":"2"},
-  {"_title":"Arrival","rating":"4"},
-  {"_title":"Ash vs. Evil Dead","rating":"2","review":"Really similar to the original movies, but I'm just not that into it."},
-  {"_title":"Baby Driver"},
-  {"_title":"Back to the Future Part II","rating":"4"},
-  {"_title":"Back to the Future","rating":"4"},
-  {"_title":"Bad Grandpa","rating":"2","review":"Crossdessing kid trolling the pagent at the end was amazing, but overall, not worth it."},
-  {"_title":"Bad Moms","rating":"2"},
-  {"_title":"Baraka","rating":"2"},
-  {"_title":"Barbie","rating":"4"},
-  {"_title":"Barton Fink","rating":"2"},
-  {"_title":"Battlestar Galactica: The Complete Series","rating":"5"},
-  {"_title":"Baywatch","rating":"4"},
-  {"_title":"Beach Bum","rating":"2"},
-  {"_title":"Beavis and Butt-head Do America","rating":"4"},
-  {"_title":"Beavis and Butt-head Do The Universe","rating":"4"},
-  {"_title":"Beetlejuice Beetlejuice (2024)","rating":"3"},
-  {"_title":"Beetlejuice","rating":"4"},
-  {"_title":"Being John Malkovich"},
-  {"_title":"Beverly Hills Cop: Axel F","rating":"4"},
-  {"_title":"Big Daddy","rating":"3"},
-  {"_title":"Big Trouble in Little China","rating":"5"},
-  {"_title":"Big","rating":"2"},
-  {"_title":"Bill & Ted Face the Music","rating":"2"},
-  {"_title":"Bill and Teds Excellent Adventure","rating":"4"},
-  {"_title":"Birdman","rating":"4","review":"Awesome"},
-  {"_title":"Black Mirror Bandersnatch","rating":"3"},
-  {"_title":"Black Panther","rating":"4"},
-  {"_title":"Black Panther: Wakanda Forever","rating":"2"},
-  {"_title":"BlackkKlansman"},
-  {"_title":"Blade Runner 2049","rating":"4"},
-  {"_title":"Blade Runner","rating":"5"},
-  {"_title":"Blood Machines","rating":"2","review":"Interesting graphics/design, but otherwise not good."},
-  {"_title":"Blood Simple","rating":"2"},
-  {"_title":"Bone Tomahawk","rating":"0","review":"Alternated between too boring and just fucking awful violence and gore. I couldn't even finish it."},
-  {"_title":"Bookworm"},
-  {"_title":"Borat Subsequent Moviefilm","rating":"2"},
-  {"_title":"Borderlands","rating":"3","review":"I love the Borderlands games, and I feel like this was a fairly faithful adaptation. That being said, it was not an amazing movie... but it wasn't terrible either."},
-  {"_title":"Braid","review":"Funded by Ethereum/ERC20 crowdsale, produced by Joe Lubin... Interesting."},
-  {"_title":"Brave","rating":"2"},
-  {"_title":"Brazil"},
-  {"_title":"Brewster's Millions"},
-  {"_title":"Bullet Train","rating":"4"},
-  {"_title":"Burn After Reading","rating":"4"},
-  {"_title":"Buster's Mal Heart"},
-  {"_title":"Bāhubali 2: The Conclcusion","comments":"This is the one with the dudes with shields being catapulted - ridiculous Bollywood action crazy crap."},
-  {"_title":"Bāhubali: The Beginning"},
-  {"_title":"Captain America: Civil War","rating":"3"},
-  {"_title":"Captain America: The First Avenger","rating":"4"},
-  {"_title":"Captain Fantastic","rating":"4","review":"Not as funny as I thought, but shows the inherent fallacy of trying to raise perfrect children..."},
-  {"_title":"Captain Horatio Hornblower"},
-  {"_title":"Captain Marvel","rating":"2"},
-  {"_title":"Captain Phillips","notes":"Look at me, I am the captain now"},
-  {"_title":"Captain Ron","rating":"4"},
-  {"_title":"Cars","rating":"2"},
-  {"_title":"Caught Stealing","rating":"3"},
-  {"_title":"Cave of Forgotten Dreams","rating":"2","review":"Was on a Werner Herzog kick. Interesting."},
-  {"_title":"Central Intelligence","rating":"4"},
-  {"_title":"Century of Enslavement","rating":"1","review":"Ugh, just too damn long. I failed to get the point. I feel like the Fed is unhelpful, but I still can't explain why."},
-  {"_title":"Christopher Robin (2018)","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Civil War (2024)","rating":"1"},
-  {"_title":"Clash of the Titans","review":"Corbin says he loves it."},
-  {"_title":"Cocaine Bear"},
-  {"_title":"Coco","rating":"2","review":"It was good, but it was too... something... like a pop music song or something. It was engineered to be good and that's what makes it not amazing."},
-  {"_title":"Colossal","rating":"4","review":"Best movie about giant monsters, alcoholism, and abusive relationships that I've ever seen."},
-  {"_title":"Coming 2 America","rating":"4"},
-  {"_title":"Coming to America","rating":"4"},
-  {"_title":"Companion"},
-  {"_title":"Cops? What?","rating":"4"},
-  {"_title":"Cowboy Bebop Remix","rating":"4"},
-  {"_title":"Crimewave","rating":"2"},
-  {"_title":"DAFT PUNK & LEIJI MATSUMOTO'S INTERSTELLA 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"},
-  {"_title":"DC League of Super-Pets","rating":"4"},
-  {"_title":"Daddy's Home","rating":"4"},
-  {"_title":"Dead Man","rating":"4"},
-  {"_title":"Deadpool & Wolverine","rating":"4"},
-  {"_title":"Deadpool 2","rating":"4"},
-  {"_title":"Dear Santa (2024)","rating":"3"},
-  {"_title":"Death at a Funeral"},
-  {"_title":"Death of a Unicorn","rating":"2"},
-  {"_title":"Deep Cover","rating":"4"},
-  {"_title":"Demolition Man","rating":"2","review":"Kind of amusing, and somewhat prescient when watching it in 2022, but ultimately not an amazing movie."},
-  {"_title":"Despicable Me 2","rating":"3"},
-  {"_title":"Despicable Me 3","rating":"3"},
-  {"_title":"Despicable Me 4","rating":"3"},
-  {"_title":"Despicable Me","rating":"4"},
-  {"_title":"Divergent","rating":"1","review":"Dumb - I need to stop watching this kinda shit."},
-  {"_title":"Doctor Strange in the Multiverse of Madness","rating":"3"},
-  {"_title":"Doctor Strange","rating":"4"},
-  {"_title":"Don't Look Up","rating":"5"},
-  {"_title":"Don't Worry, He Won't Get Far on Foot"},
-  {"_title":"Donnie Darko","rating":"5","review":"Great"},
-  {"_title":"Doomsday","rating":"4","review":"Ridiculous"},
-  {"_title":"Dora and the Lost City of Gold","rating":"3"},
-  {"_title":"Downsizing","rating":"4"},
-  {"_title":"Dream Scenario"},
-  {"_title":"Dredd","rating":"4"},
-  {"_title":"Dumb Money","rating":"4"},
-  {"_title":"Dumb and Dumber To","rating":"2"},
-  {"_title":"Dune (2020)","rating":"5"},
-  {"_title":"Dungeons & Dragons: Honor Among Thieves","rating":"5"},
-  {"_title":"Dust Bunny"},
-  {"_title":"E.T. the Extra Terrestrial"},
-  {"_title":"Edge of Tomorrow","rating":"4"},
-  {"_title":"Elf","rating":"5","review":"Hilarious!"},
-  {"_title":"Encanto","rating":"4"},
-  {"_title":"Encounters at the End of the World","rating":"2","review":"Was on a Werner Herzog kick. Interesting."},
-  {"_title":"Enola Holmes 2","rating":"4"},
-  {"_title":"Enola Holmes","rating":"4"},
-  {"_title":"Entergalactic","rating":"3"},
-  {"_title":"Ernest Goes to Camp","rating":"5"},
-  {"_title":"Ernest Saves Christmas","rating":"4"},
-  {"_title":"Escape from L.A.","rating":"5"},
-  {"_title":"Escape from New York","rating":"3"},
-  {"_title":"Eternal Sunshine of the Spotless Mind","rating":"5"},
-  {"_title":"Everything Everywhere All at Once","rating":"5"},
-  {"_title":"Everything is Illuminated"},
-  {"_title":"Evilspeak"},
-  {"_title":"Explorers","rating":"2","review":"was good when I was a kid. didn't hold up."},
-  {"_title":"Extra ordinary"},
-  {"_title":"Fantastic Beasts and Where to Find Them","rating":"2"},
-  {"_title":"Fargo","rating":"4"},
-  {"_title":"Ferris Bueller's Day Off"},
-  {"_title":"Fight Club","rating":"5"},
-  {"_title":"Finch","rating":"2","review":"Trash"},
-  {"_title":"Finding Dory","rating":"2"},
-  {"_title":"Finding Nemo","rating":"2"},
-  {"_title":"Finding Ohana"},
-  {"_title":"First Strike","review":"watch with kids"},
-  {"_title":"Flash Gordon","rating":"4"},
-  {"_title":"Flight of the Navigator","rating":"2","review":"I liked this movie when I was a kid, but it's really not that interesting."},
-  {"_title":"Flow","rating":"4"},
-  {"_title":"Fly Me to the Moon","rating":"3"},
-  {"_title":"Freakonomics","rating":"2","review":"Basically just a video podcast. It's alright, but the podcasts are better."},
-  {"_title":"Free guy","rating":"3"},
-  {"_title":"Freelance","rating":"2","review":"Decent but not good enough to recommend."},
-  {"_title":"Furiosa: A Mad Max Saga","rating":"3"},
-  {"_title":"G20","rating":"2"},
-  {"_title":"Gambit"},
-  {"_title":"Game Night","rating":"4"},
-  {"_title":"Gentlemen Broncos","rating":"4"},
-  {"_title":"Geostorm"},
-  {"_title":"Get Out","rating":"4"},
-  {"_title":"Ghost Story"},
-  {"_title":"Ghost in the Shell 2.0"},
-  {"_title":"Ghost in the Shell","rating":"2"},
-  {"_title":"Ghostbusters II","rating":"4"},
-  {"_title":"Ghostbusters","rating":"4"},
-  {"_title":"Ghostbusters: Afterlife","rating":"4"},
-  {"_title":"Ghostbusters: Frozen Empire","rating":"4"},
-  {"_title":"Glass Onion","rating":"4"},
-  {"_title":"Gleaming the Cube"},
-  {"_title":"Going in Style","rating":"2","review":"meh"},
-  {"_title":"Gone Girl","review":"Music by NIN"},
-  {"_title":"Good Fortune","rating":"4"},
-  {"_title":"Gremlins"},
-  {"_title":"Guardians of the Galaxy Vol. 2","rating":"2"},
-  {"_title":"Guardians of the Galaxy Vol. 3","rating":"4"},
-  {"_title":"Guardians of the Galaxy","rating":"4"},
-  {"_title":"Guns Akimbo","rating":"3"},
-  {"_title":"Hackers","rating":"4"},
-  {"_title":"Hail, Caesar!","rating":"2"},
-  {"_title":"Half Baked","rating":"4"},
-  {"_title":"Happy People","rating":"2","review":"Was on a Werner Herzog kick. Interesting."},
-  {"_title":"Hard Eight","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Hardcore Henry","rating":"4","review":"Really only worth watching because of the perspective."},
-  {"_title":"Harry Potter and the Chamber of Secrets","rating":"3"},
-  {"_title":"Harry Potter and the Deathly Hallows: Part 1","rating":"3"},
-  {"_title":"Harry Potter and the Deathly Hallows: Part 2","rating":"3"},
-  {"_title":"Harry Potter and the Goblet of Fire","rating":"3"},
-  {"_title":"Harry Potter and the Half-Blood Prince","rating":"3"},
-  {"_title":"Harry Potter and the Order of the Phoenix","rating":"3"},
-  {"_title":"Harry Potter and the Philosopher's Stone","rating":"3"},
-  {"_title":"Harry Potter and the Prisoner of Azkaban","rating":"3"},
-  {"_title":"Heads of State","rating":"3"},
-  {"_title":"Heathers","rating":"2"},
-  {"_title":"Hell Comes to Frogtown","rating":"4"},
-  {"_title":"Her"},
-  {"_title":"Hey Big Boy (Bert Kreischer)"},
-  {"_title":"Hidden Figures","rating":"2"},
-  {"_title":"Hilda the Mountain King","rating":"2"},
-  {"_title":"History of the World: Part I","rating":"2","review":"Pretty cringe by modern standards... The good parts seemed overshadowed by it."},
-  {"_title":"Hocus Pocus 2","rating":"2"},
-  {"_title":"Hocus Pocus","rating":"2"},
-  {"_title":"Home (2015)","rating":"4"},
-  {"_title":"Honey Boy"},
-  {"_title":"Horatio Hornblower: The Duel","review":"This is an A&E series of movies actually."},
-  {"_title":"Horrible Bosses 2","rating":"2"},
-  {"_title":"Hot Fuzz","rating":"4"},
-  {"_title":"House of Wolves","rating":"2","review":"Pretty funny. Watched on a plane with no sound. I should watch it again with sound. Update: borrowed it from the library, but it wasn't interesting enough to watch again."},
-  {"_title":"How It Ends","rating":"4","review":"https://en.wikipedia.org/wiki/How_It_Ends_(2021_film)"},
-  {"_title":"Howl's Moving Castle","rating":"4","review":"Ends rather abruptly and stupidly, but it was mostly enjoyable."},
-  {"_title":"Hundreds of Beavers","rating":"4"},
-  {"_title":"I Am Mother","rating":"4","review":"A nice, morally-confusing movie about a robo-mom."},
-  {"_title":"I Don't Feel at Home in This World Anymore.","rating":"2","review":"Good, but not good enough to recommend."},
-  {"_title":"I Lost My Body","rating":"4"},
-  {"_title":"I Used to Go Here","rating":"2","review":"Decent, but not good enough to recommend..."},
-  {"_title":"I am not an Easy Man","rating":"4"},
-  {"_title":"I heart Huckabees","rating":"4"},
-  {"_title":"I'm Totally Fine","rating":"2"},
-  {"_title":"IT (2017)","rating":"2","review":"Corbin made me watch this. We are both traumatized now."},
-  {"_title":"Ice Pirates"},
-  {"_title":"Ichi the Killer","rating":"2","review":"Watched 10 minutes. Boring/stupid. Watched trailer. Fuck! Nope."},
-  {"_title":"Idiocracy","rating":"5"},
-  {"_title":"In Time","rating":"4"},
-  {"_title":"In a World","rating":"2","review":"Pretty good"},
-  {"_title":"Incredibles 2","rating":"2"},
-  {"_title":"Indiana Jones and the Dial of Destiny","rating":"3"},
-  {"_title":"Indiana Jones and the Kingdom of the Crystal Skull","rating":"4"},
-  {"_title":"Indiana Jones and the Last Crusade","rating":"4"},
-  {"_title":"Indiana Jones and the Raiders of the Lost Ark","rating":"4"},
-  {"_title":"Indiana Jones and the Temple of Doom","rating":"4"},
-  {"_title":"Inherent Vice","rating":"2"},
-  {"_title":"Inside Llewyn Davis"},
-  {"_title":"Inside Out","rating":"2"},
-  {"_title":"Inside","review":"https://www.imdb.com/title/tt14544192/"},
-  {"_title":"Interstellar","rating":"4","review":"Good"},
-  {"_title":"Intolerable Cruelty","rating":"2"},
-  {"_title":"Inu-oh","notes":"Recommended by Patrick - he says it's a anime rock opera - totally not what he expected"},
-  {"_title":"Iron Eagle"},
-  {"_title":"Iron Man 2","rating":"2"},
-  {"_title":"Iron Man","rating":"4"},
-  {"_title":"Isle of Dogs","rating":"4"},
-  {"_title":"It's Such a Beautiful Day","review":"Don Hertzfeldt"},
-  {"_title":"JUMANJI"},
-  {"_title":"JUMANJI: WELCOME TO THE JUNGLE","rating":"2"},
-  {"_title":"Jackass 2.5"},
-  {"_title":"Jackass 3.5"},
-  {"_title":"Jackass 3D"},
-  {"_title":"Jackass Number Two","rating":"4"},
-  {"_title":"Jackass: The Movie","rating":"4"},
-  {"_title":"Jojo Rabbit","rating":"5","review":"Such a great, weird movie. I aspire to be like Rosie - she was an amazing parent."},
-  {"_title":"Joker","rating":"4"},
-  {"_title":"Joker: Folie à Deux","rating":"3"},
-  {"_title":"Jupiter Ascending","rating":"2","review":"Pretty but dumb"},
-  {"_title":"Jurassic Park","rating":"4","review":"It's a UNIX system! I know this!"},
-  {"_title":"Kajillionaire","rating":"4"},
-  {"_title":"Karate Kid","rating":"4"},
-  {"_title":"Keanu","rating":"4"},
-  {"_title":"Kiki's Delivery Service","rating":"2","review":"Meh"},
-  {"_title":"Kill Bill volume 1","rating":"4"},
-  {"_title":"Kingsman: The Secret Service","rating":"2","review":"Not sure why I finished it. Just tropy spy weirdness."},
-  {"_title":"Knives Out","rating":"4"},
-  {"_title":"Kopps","review":"Swedish movie"},
-  {"_title":"Krampus"},
-  {"_title":"Krull"},
-  {"_title":"Kung Fu Hustle","rating":"4","review":"Didn't hold up as well as I thought, especially if you're watching the dubbed version, but still pretty damn good, ha."},
-  {"_title":"Kung Fu Panda","review":"watch with kids"},
-  {"_title":"Kung Pow! Enter the Fist","rating":"5"},
-  {"_title":"Kung fury full length"},
-  {"_title":"Lady Bird (2017)","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Lady Hawke","notes":"Recommended by Scott"},
-  {"_title":"Land of the Lost","rating":"4"},
-  {"_title":"Lara Croft: Tomb Raider (2001)","review":"Music by NIN"},
-  {"_title":"Lazer Team","rating":"2"},
-  {"_title":"Lightyear","rating":"2"},
-  {"_title":"Lo and Behold, Reveries of the Connected World","rating":"2","review":"Good, but too many kooks and mostly depressing."},
-  {"_title":"Logan Lucky","rating":"2"},
-  {"_title":"Lost Highway","review":"Music by NIN"},
-  {"_title":"Lost in Translation","rating":"4"},
-  {"_title":"Love Me"},
-  {"_title":"Love and Monsters","rating":"4"},
-  {"_title":"Luca","rating":"4"},
-  {"_title":"Lucky Number Slevin"},
-  {"_title":"M3gan","rating":"2"},
-  {"_title":"Mad Max Beyond Thunderdome","rating":"2","review":"I was sitting here thinking whether this is good enough to borrow from the library, and I was like... nah... so, I gave it an N."},
-  {"_title":"Mad Max Fury Road","rating":"2","review":"Meh"},
-  {"_title":"Madagascar","rating":"4"},
-  {"_title":"Magnolia","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Maiden"},
-  {"_title":"Marvel's the Avengers","rating":"4"},
-  {"_title":"Mary Poppins","rating":"4"},
-  {"_title":"Master and Commander","review":"Has the HMS Surprise!"},
-  {"_title":"Matilda","rating":"4"},
-  {"_title":"Me, You, and Everyone we Know","rating":"4"},
-  {"_title":"Mickey 17","rating":"4"},
-  {"_title":"Midsommer","rating":"1","review":"One of Beth's favorite movies. Unfortunately, the genre of psychological thrillers + gore is really hard for my sensitive ass to watch."},
-  {"_title":"Migration","rating":"3"},
-  {"_title":"Mike & Dave Need Wedding Dates","rating":"2","review":"Funny and stupid."},
-  {"_title":"Miller's Crossing","rating":"4"},
-  {"_title":"Milo and Otis","rating":"4","review":"Pretty awesome. Corbin loved it. We watched this a bunch of times in the minivan."},
-  {"_title":"Minions","rating":"4"},
-  {"_title":"Minions: Rise of Gru","rating":"2"},
-  {"_title":"Moana 2","rating":"2"},
-  {"_title":"Moana","rating":"4"},
-  {"_title":"Monkey Man"},
-  {"_title":"Monty Python and The Holy Grail","rating":"5"},
-  {"_title":"Moonfall","rating":"4"},
-  {"_title":"Moonstruck"},
-  {"_title":"Mortal Kombat (2021)"},
-  {"_title":"Mortal Kombat"},
-  {"_title":"Movie 43","rating":"4","review":"Completely absurd, heh."},
-  {"_title":"Mr. Poppers Penguins","review":"watch with kids"},
-  {"_title":"Mute"},
-  {"_title":"My Neighbor Totoro","rating":"5","review":"Excellent!"},
-  {"_title":"Nadiya's Time to Eat"},
-  {"_title":"Napoleon Dynamite","rating":"5"},
-  {"_title":"Natural Born Killers","review":"Music by NIN"},
-  {"_title":"Nausicaä of the Valley of the Wind","rating":"2","review":"Despite interesting art and world, it just didn't grab me."},
-  {"_title":"Needle in a Timestack"},
-  {"_title":"Nimona","rating":"3"},
-  {"_title":"No Country for Old Men","rating":"2"},
-  {"_title":"No Hard Feelings (2023)","rating":"5","review":"Jennifer Lawrence's most absurd performance, I laughed by my ass off."},
-  {"_title":"Nope","rating":"4"},
-  {"_title":"Nothing but Trouble","link":"https://en.wikipedia.org/wiki/Nothing_but_Trouble_(1991_film)"},
-  {"_title":"O Brother, Where Art Thou?","rating":"5"},
-  {"_title":"Oceans 8","rating":"2"},
-  {"_title":"Office Space","rating":"5"},
-  {"_title":"Old Dads","rating":"3"},
-  {"_title":"On Becoming a Guinea Fowl","rating":"2"},
-  {"_title":"On Falling"},
-  {"_title":"One Piece","review":"Netflix. Looks weird. Kids might enjoy it?"},
-  {"_title":"Onward","rating":"4","review":"As the haver of a dead dad, this was particurly rough, but good."},
-  {"_title":"Open Wide","rating":"2","review":"Mewing, LOL. Started to watch with Corbin, but we never finished it."},
-  {"_title":"Osmosis Jones","rating":"3"},
-  {"_title":"Paddington 2","review":"It has absurdly high ratings and was referenced in The Unbearable Weight of Massive Talent..."},
-  {"_title":"Paddington","rating":"4"},
-  {"_title":"Palm Springs","rating":"4"},
-  {"_title":"ParaNorman (2012)","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Parasite","rating":"3"},
-  {"_title":"Passenger","rating":"4"},
-  {"_title":"Past Lives","rating":"4","review":"Recommended by Ilya"},
-  {"_title":"Patriots Day","review":"Music by NIN"},
-  {"_title":"Paws of Fury","rating":"2","review":"Weird reboot of Blazing Saddles for kids? It was OK, but not OK enough to recommend."},
-  {"_title":"Pee Wee's Big Adventure"},
-  {"_title":"Peggy Sue Got Married"},
-  {"_title":"Penguins of Madagascar","rating":"4","review":"Very solid, rewatchable kids' movie. Watched it several times."},
-  {"_title":"Perfect Day"},
-  {"_title":"Personal Shopper"},
-  {"_title":"Pirates of the Carribean 4","review":"Has the HMS Surprise!"},
-  {"_title":"Pitch Black","rating":"4"},
-  {"_title":"Planet Earth","rating":"4"},
-  {"_title":"Playtime","review":"https://m.imdb.com/title/tt0062136/"},
-  {"_title":"Please Don't Destroy: The Treasure of Foggy Mountain","rating":"2"},
-  {"_title":"Pom Poko"},
-  {"_title":"Ponyo","rating":"4","review":"Good, but not as good as Totoro"},
-  {"_title":"Poor Things","rating":"3","review":"The poor things are the men who try to possess or control the truly liberated woman, Bella. While this movie was fascinating and the cinematography was great, it was pretty uncomfortable to watch."},
-  {"_title":"Pretty in Pink"},
-  {"_title":"Prince of Darkness (1987)"},
-  {"_title":"Princess Mononoke","rating":"4"},
-  {"_title":"Problemista","rating":"4"},
-  {"_title":"Prospect","rating":"3"},
-  {"_title":"Psycho Goreman","review":"watch with kids"},
-  {"_title":"Punch-Drunk Love","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"R.I.P.D.","rating":"2"},
-  {"_title":"RBG"},
-  {"_title":"RRR","rating":"4"},
-  {"_title":"Raising Arizona","rating":"5"},
-  {"_title":"Ralph Breaks the Internet","rating":"4","review":"The Disney princesses scenes are hilarious."},
-  {"_title":"Rampage","rating":"2"},
-  {"_title":"Random Swimmer Films","rating":"4","review":"What is this? I put this in here, but I have no idea what I'm referring to."},
-  {"_title":"Rapture-Palooza"},
-  {"_title":"Ratatouille","rating":"3"},
-  {"_title":"Raya and the Last Dragon","rating":"2"},
-  {"_title":"Ready Player One","rating":"4"},
-  {"_title":"Real Genius","rating":"4"},
-  {"_title":"Rebel Moon: Part One - A Child of Fire","rating":"2"},
-  {"_title":"Rejected","rating":"5"},
-  {"_title":"Renfield","rating":"4"},
-  {"_title":"Return to Oz"},
-  {"_title":"Riftworld Chronicles","rating":"4","review":"http://riftworldchronicles.com/"},
-  {"_title":"Robin Hood: Men in Tights","rating":"2"},
-  {"_title":"Robocop"},
-  {"_title":"Robot Dreams"},
-  {"_title":"Rogue One: A Star Wars Story","rating":"4"},
-  {"_title":"Ron Funches: Giggle Fit"},
-  {"_title":"SLC Punk","rating":"4"},
-  {"_title":"Sandy Wexler","rating":"4"},
-  {"_title":"Sausage Party","rating":"0","review":"Couldn't even make it through this. Can't believe so many great actors had roles in this lousy movie."},
-  {"_title":"Save Yourselves!","rating":"2","review":"Generally good, but it lacked a real ending..."},
-  {"_title":"Scarface","review":"Cohen Bro's version"},
-  {"_title":"Scrooged","rating":"4"},
-  {"_title":"Self Reliance","rating":"3"},
-  {"_title":"Serenity","rating":"4"},
-  {"_title":"Severed Ways","review":"Recommended by Rick Perry."},
-  {"_title":"Shaolin Soccer","rating":"4","review":"Rhys liked this one. We should watch it again, now that he's into soccer."},
-  {"_title":"Shazam","rating":"4"},
-  {"_title":"Short Circuit 2","rating":"4"},
-  {"_title":"Short Circuit","rating":"4"},
-  {"_title":"Shrek 2","rating":"4"},
-  {"_title":"Shrek","rating":"4"},
-  {"_title":"Sidekicks (1992)","rating":"4"},
-  {"_title":"Silence of the Hams"},
-  {"_title":"Sin City","rating":"4"},
-  {"_title":"Sisters","rating":"4","review":"Hilarious!"},
-  {"_title":"Sita Sings the Blues"},
-  {"_title":"Slumberland","rating":"2"},
-  {"_title":"Snatch","rating":"4"},
-  {"_title":"Snowpiercer","rating":"2","review":"Meh"},
-  {"_title":"Solo: A Star Wars Story","rating":"4"},
-  {"_title":"Song of the Sea","rating":"5","review":"Great movie!"},
-  {"_title":"Sonic the Hedgehog 2","rating":"2"},
-  {"_title":"Sonic the Hedgehog","rating":"2"},
-  {"_title":"Sorry to Bother You","rating":"4"},
-  {"_title":"Soul","rating":"2"},
-  {"_title":"Sound of music"},
-  {"_title":"Southland Tales","rating":"4"},
-  {"_title":"Space Sweepers","rating":"2"},
-  {"_title":"Spaceballs","rating":"5"},
-  {"_title":"Spider-Man: Across the Spider-Verse","rating":"4"},
-  {"_title":"Spider-Man: Far From Home","rating":"3"},
-  {"_title":"Spider-Man: Into the Spider-Verse","rating":"4"},
-  {"_title":"Spirited Away","rating":"2"},
-  {"_title":"St. Vincent","rating":"2","review":"Bill Murray. Good."},
-  {"_title":"Star Trek Beyond","rating":"2"},
-  {"_title":"Star Trek: Section 31","rating":"1","review":"Just bad... What the hell."},
-  {"_title":"Star Wars: Episode I – The Phantom Menace","rating":"3"},
-  {"_title":"Star Wars: Episode II – Attack of the Clones","rating":"3"},
-  {"_title":"Star Wars: Episode III – Revenge of the Sith","rating":"3"},
-  {"_title":"Star Wars: Episode IV – A New Hope","rating":"4"},
-  {"_title":"Star Wars: Episode V – The Empire Strikes Back","rating":"4"},
-  {"_title":"Star Wars: Episode VI – Return of the Jedi","rating":"4"},
-  {"_title":"Star Wars: Episode VII – The Force Awakens","rating":"3"},
-  {"_title":"Star Wars: The Last Jedi","rating":"4"},
-  {"_title":"Star Wars: The Rise of Skywalker","rating":"2"},
-  {"_title":"Stargate","rating":"5","review":"One of my mom's favorite movies. And mine too."},
-  {"_title":"Step Brothers","rating":"4"},
-  {"_title":"Strange World","rating":"2"},
-  {"_title":"Suburbicon"},
-  {"_title":"Sukiyaki Western Django"},
-  {"_title":"Super Troopers 2","rating":"2"},
-  {"_title":"Super Troopers","rating":"4"},
-  {"_title":"Superintelegence","rating":"3","review":"Decent, but not good enough to recommend..."},
-  {"_title":"Superlopez","rating":"2"},
-  {"_title":"Swiss Army Man","rating":"3","review":"Certainly different. Got a few laughs."},
-  {"_title":"Sword in the Stone","rating":"4","review":"One of my favorite Disney movies."},
-  {"_title":"Synecdoche, New York (2008)","review":"Music by Jon Brion, who seems to be associated with several really good movies."},
-  {"_title":"Tag","rating":"4"},
-  {"_title":"Teenage Mutant Ninja Turtles","review":"watch with kids"},
-  {"_title":"Teenage Mutant Ninja Turtles: Mutant Mayhem","rating":"4"},
-  {"_title":"Tekken"},
-  {"_title":"Terminator movies"},
-  {"_title":"Tetris","rating":"2"},
-  {"_title":"Thank You for Supporting the Arts"},
-  {"_title":"The Adam Project","rating":"4"},
-  {"_title":"The Adventures of Buckaroo Banzai Across the 8th Dimension"},
-  {"_title":"The Art of Self-Defense","rating":"4"},
-  {"_title":"The Artifice Girl"},
-  {"_title":"The Bad Guys","rating":"4"},
-  {"_title":"The Ballad of Buster Scruggs","rating":"3"},
-  {"_title":"The Beach","review":"A24"},
-  {"_title":"The Big Lebowski","rating":"5"},
-  {"_title":"The Big Year","review":"About birdwatch? Recommended by Marisol."},
-  {"_title":"The Boy and the Heron","rating":"2","review":"It's like Miyazaki is parodying himself..."},
-  {"_title":"The Burbs"},
-  {"_title":"The Care Bears Movie"},
-  {"_title":"The Christmas Chronicles 2"},
-  {"_title":"The Christmas Chronicles","rating":"4"},
-  {"_title":"The Chronicles of Riddick"},
-  {"_title":"The Chronicles of Riddick: Dark Fury"},
-  {"_title":"The Circle","rating":"3","review":"Enjoyed the book. Movie was the same. Whatever."},
-  {"_title":"The City of Lost Children","rating":"4"},
-  {"_title":"The Conformist","review":"https://www.rottentomatoes.com/m/conformist"},
-  {"_title":"The Corsican Brothers"},
-  {"_title":"The Dead Don't Die","rating":"5"},
-  {"_title":"The Death of Stalin","rating":"2"},
-  {"_title":"The Donut King","review":"Arturo recommends"},
-  {"_title":"The Endless","review":"Horror but looks good? Give it a try."},
-  {"_title":"The Fall Guy (2024)"},
-  {"_title":"The Fall","review":"Recommended by Tony https://m.imdb.com/title/tt0460791/?ref_=fn_al_tt_3"},
-  {"_title":"The Fifth Element","rating":"5"},
-  {"_title":"The Flight of Dragons"},
-  {"_title":"The Forbidden Kingdom","review":"watch with kids"},
-  {"_title":"The Future","review":"https://m.imdb.com/title/tt1235170/?ref_=m_nmfmd_dr_4"},
-  {"_title":"The Girl with the Dragon Tattoo","review":"Music by NIN"},
-  {"_title":"The Glass Castle"},
-  {"_title":"The Golden Child","review":"4"},
-  {"_title":"The Goonies","rating":"4"},
-  {"_title":"The Gorge","rating":"3"},
-  {"_title":"The Hateful Eight","rating":"2","review":"Kinda good despite racial epithets, until it turned to shit."},
-  {"_title":"The Highwaymen"},
-  {"_title":"The History of Future Folk","rating":"2"},
-  {"_title":"The Hitman's Bodyguard","rating":"2"},
-  {"_title":"The Hudsucker Proxy","rating":"4"},
-  {"_title":"The Hunger Games: Catching Fire","rating":"4"},
-  {"_title":"The Hunger Games: Mockingjay, Part 1","rating":"4"},
-  {"_title":"The Hunger Games: Mockingjay, Part 2","rating":"4"},
-  {"_title":"The Hunger Games: The Ballad of Songbirds and Snakes"},
-  {"_title":"The Incredibles","rating":"2"},
-  {"_title":"The Jerk","rating":"4"},
-  {"_title":"The Ladykillers"},
-  {"_title":"The Larva Island Movie"},
-  {"_title":"The Last Dragon","rating":"2"},
-  {"_title":"The Last Starfighter"},
-  {"_title":"The Lego Batman Movie"},
-  {"_title":"The Lego Movie"},
-  {"_title":"The Little Hours","rating":"2","review":"Weird, but not amazing."},
-  {"_title":"The Little Mermaid","rating":"3","review":"Just not that big a fan of the Little Mermaid. Whatever."},
-  {"_title":"The Machine","rating":"2"},
-  {"_title":"The Magnificent Seven","rating":"2"},
-  {"_title":"The Man Who Wasn't There","rating":"2"},
-  {"_title":"The Mandela Effect"},
-  {"_title":"The Martian","rating":"4"},
-  {"_title":"The Midnight Sky","rating":"2"},
-  {"_title":"The Ministry of Ungentlemanly Warfare","rating":"3"},
-  {"_title":"The Mitchells vs. the Machines","rating":"4"},
-  {"_title":"The Naked Gun (2025)","rating":"2"},
-  {"_title":"The Naked Man","rating":"2"},
-  {"_title":"The Neverending Story"},
-  {"_title":"The Nice Guys","rating":"4"},
-  {"_title":"The Penguin Lessons","rating":"4"},
-  {"_title":"The Phantom of the Open","rating":"4"},
-  {"_title":"The Red Turtle"},
-  {"_title":"The Samurai of Ayothaya (aka Muay Thai Warrior)","rating":"2"},
-  {"_title":"The Sandlot","rating":"4"},
-  {"_title":"The Secret Life of Pets","rating":"2"},
-  {"_title":"The Social Dilemma","rating":"4"},
-  {"_title":"The Social Network","rating":"3","review":"Music by NIN"},
-  {"_title":"The Spy Next Door","review":"watch with kids"},
-  {"_title":"The Suicide Squad"},
-  {"_title":"The Super Mario Bros Movie (2023)","rating":"2"},
-  {"_title":"The Swedish Theory of Love"},
-  {"_title":"The Theory of Everything","rating":"4","review":"Stephen Hawking has had a hard, but interesting life."},
-  {"_title":"The Tomorrow War","rating":"2"},
-  {"_title":"The Toy"},
-  {"_title":"The Transformers the Movie (1986)"},
-  {"_title":"The Unbearable Weight of Massive Talent","rating":"4"},
-  {"_title":"The Union","rating":"2"},
-  {"_title":"The VelociPastor","rating":"2"},
-  {"_title":"The Vietnam War by Ken Burns and Lynn Novick","review":"Music by NIN"},
-  {"_title":"The Wandering Earth 2"},
-  {"_title":"The Wandering Earth","rating":"4"},
-  {"_title":"The Weather Man"},
-  {"_title":"The Wild Robot","rating":"3","review":"Rhys wanted to see it. Decent."},
-  {"_title":"The Wizard of Oz","rating":"3"},
-  {"_title":"They Cloned Tyrone","rating":"4"},
-  {"_title":"They Live","rating":"4"},
-  {"_title":"This Is A Disaster","rating":"2"},
-  {"_title":"This Place Rules","rating":"2"},
-  {"_title":"Thor","rating":"2"},
-  {"_title":"Thor: Ragnarok","rating":"2","review":"A bunch of fighting and like 3 funny parts. Typical comic book movie."},
-  {"_title":"Three Amigos","rating":"4"},
-  {"_title":"Three Billboards Outside Ebbing, Missouri"},
-  {"_title":"Thunderbolts*","rating":"2"},
-  {"_title":"Tickling Giants"},
-  {"_title":"Tom Segura: Ball Hog"},
-  {"_title":"Tom and Jerry movie","review":"watch with kids"},
-  {"_title":"Tommy Boy","review":"watch with kids"},
-  {"_title":"Total Recall","rating":"4"},
-  {"_title":"Toy Story 2","rating":"2"},
-  {"_title":"Toy Story 3","rating":"2"},
-  {"_title":"Toy Story","rating":"2"},
-  {"_title":"Train Wreck","rating":"3"},
-  {"_title":"Triangle of Sadness","rating":"4"},
-  {"_title":"Tron","rating":"4","review":"watch with kids"},
-  {"_title":"Tron: Ares"},
-  {"_title":"True Grit","rating":"2"},
-  {"_title":"True Romance","notes":"Recommended by Scott. I've seen it before, but don't remember it."},
-  {"_title":"Twas the Night Before Spongemas"},
-  {"_title":"Twisters (2024)","rating":"4"},
-  {"_title":"UHF","rating":"5"},
-  {"_title":"Uglies","rating":"2"},
-  {"_title":"Uncharted","rating":"2"},
-  {"_title":"Uncut gems","review":"Recommended by Brian"},
-  {"_title":"Underwater","rating":"2"},
-  {"_title":"Up","rating":"4"},
-  {"_title":"Us","rating":"3"},
-  {"_title":"Valerian","rating":"2"},
-  {"_title":"Valley Girls","notes":"Recommended by Scott"},
-  {"_title":"Vengeance","rating":"4"},
-  {"_title":"Vesper"},
-  {"_title":"Vice Versa"},
-  {"_title":"Violent Night","rating":"4"},
-  {"_title":"WALL-E","rating":"4"},
-  {"_title":"Wake Up Dead Man: A Knives Out Mystery","rating":"4"},
-  {"_title":"Wakefield"},
-  {"_title":"Wallace & Gromit: Vengeance Most Fowl","rating":"4"},
-  {"_title":"War Dogs","rating":"4"},
-  {"_title":"Waterworld","rating":"4"},
-  {"_title":"Wayne's World 2"},
-  {"_title":"Wayne's World"},
-  {"_title":"We Are Many"},
-  {"_title":"Weird: The Al Yankovic Story","rating":"3"},
-  {"_title":"What We Do in the Shadows","rating":"4","review":"Hilarious"},
-  {"_title":"What the Health?","rating":"4","review":"It's good to get fired up about stupid shit in our world."},
-  {"_title":"Where'd You Go, Bernadette","rating":"4"},
-  {"_title":"Wicked","rating":"4"},
-  {"_title":"Willow","rating":"4"},
-  {"_title":"Willy Wonka"},
-  {"_title":"Willy's Wonderland","rating":"2"},
-  {"_title":"Wine Country","rating":"2"},
-  {"_title":"Wonder Woman 1984","rating":"2","review":"Just total garbage. Damn shame considering the decent cast."},
-  {"_title":"Wonder Woman","rating":"4"},
-  {"_title":"World of Tomorrow","review":"Don Hertzfeldt"},
-  {"_title":"Wreck It Ralph","rating":"3","review":"Not bad, but not amazing."},
-  {"_title":"Wristcutters","rating":"4"},
-  {"_title":"Y2K","rating":"2"},
-  {"_title":"Zombeavers","rating":"2","review":"Better than I was expecting, but..."},
-  {"_title":"Zombieland","rating":"4"},
-  {"_title":"Zombieland: Double Tap","rating":"2"},
-  {"_title":"Zoolander","rating":"4"},
-  {"_title":"a story of sahel sounds"},
-  {"_title":"batteries not included"},
-  {"_title":"before we vanish"},
-  {"_title":"http://www.hollywebfestival.com/awardwinners2013"},
-  {"_title":"leave no Trace"},
-  {"_title":"waiting for godot"},
-  {"_title":"wargames","rating":"2","review":"Good, but not amazing."}
+  {
+    "_title": "12 Monkeys",
+    "rating": "4"
+  },
+  {
+    "_title": "21 Jump Street",
+    "rating": "4"
+  },
+  {
+    "_title": "8-bit Christmas",
+    "rating": "2"
+  },
+  {
+    "_title": "A Bug's Life",
+    "rating": "2"
+  },
+  {
+    "_title": "A Christmas Story",
+    "rating": "2"
+  },
+  {
+    "_title": "A Minecraft Movie",
+    "rating": "4"
+  },
+  {
+    "_title": "A Quiet Place Part II",
+    "rating": "3"
+  },
+  {
+    "_title": "A Quiet Place",
+    "rating": "3"
+  },
+  {
+    "_title": "A Quiet Place: Day One",
+    "rating": "3"
+  },
+  {
+    "_title": "A Serious Man",
+    "rating": "2"
+  },
+  {
+    "_title": "A Simple Favor"
+  },
+  {
+    "_title": "A Turtle's Tale: Sammy's Adventures",
+    "rating": "4",
+    "review": "Corbin loved this movie when he was little."
+  },
+  {
+    "_title": "A Wrinkle in Time",
+    "rating": "2"
+  },
+  {
+    "_title": "Adaptation"
+  },
+  {
+    "_title": "Adult Swim Yule Log",
+    "rating": "2"
+  },
+  {
+    "_title": "Airplane!"
+  },
+  {
+    "_title": "Aladdin (1992)",
+    "rating": "2"
+  },
+  {
+    "_title": "Alice in Wonderland",
+    "rating": "4"
+  },
+  {
+    "_title": "Alita battle angel",
+    "rating": "4"
+  },
+  {
+    "_title": "All is Lost",
+    "rating": "4"
+  },
+  {
+    "_title": "Altered Carbon: Resleeved",
+    "rating": "2"
+  },
+  {
+    "_title": "Amelie",
+    "rating": "4"
+  },
+  {
+    "_title": "America: The Motion Picture",
+    "rating": "0",
+    "review": "So bad that I barely made it past the exposition."
+  },
+  {
+    "_title": "American Ultra",
+    "rating": "2",
+    "review": "decent. not amazing."
+  },
+  {
+    "_title": "Anon",
+    "rating": "2"
+  },
+  {
+    "_title": "Another Simple Favor"
+  },
+  {
+    "_title": "Ant-Man and the Wasp",
+    "rating": "2"
+  },
+  {
+    "_title": "Ant-Man",
+    "rating": "2"
+  },
+  {
+    "_title": "Arrival",
+    "rating": "4"
+  },
+  {
+    "_title": "Ash vs. Evil Dead",
+    "rating": "2",
+    "review": "Really similar to the original movies, but I'm just not that into it."
+  },
+  {
+    "_title": "Baby Driver"
+  },
+  {
+    "_title": "Back to the Future Part II",
+    "rating": "4"
+  },
+  {
+    "_title": "Back to the Future",
+    "rating": "4"
+  },
+  {
+    "_title": "Bad Grandpa",
+    "rating": "2",
+    "review": "Crossdessing kid trolling the pagent at the end was amazing, but overall, not worth it."
+  },
+  {
+    "_title": "Bad Moms",
+    "rating": "2"
+  },
+  {
+    "_title": "Baraka",
+    "rating": "2"
+  },
+  {
+    "_title": "Barbie",
+    "rating": "4"
+  },
+  {
+    "_title": "Barton Fink",
+    "rating": "2"
+  },
+  {
+    "_title": "Battlestar Galactica: The Complete Series",
+    "rating": "5"
+  },
+  {
+    "_title": "Baywatch",
+    "rating": "4"
+  },
+  {
+    "_title": "Beach Bum",
+    "rating": "2"
+  },
+  {
+    "_title": "Beavis and Butt-head Do America",
+    "rating": "4"
+  },
+  {
+    "_title": "Beavis and Butt-head Do The Universe",
+    "rating": "4"
+  },
+  {
+    "_title": "Beetlejuice Beetlejuice (2024)",
+    "rating": "3"
+  },
+  {
+    "_title": "Beetlejuice",
+    "rating": "4"
+  },
+  {
+    "_title": "Being John Malkovich"
+  },
+  {
+    "_title": "Beverly Hills Cop: Axel F",
+    "rating": "4"
+  },
+  {
+    "_title": "Big Daddy",
+    "rating": "3"
+  },
+  {
+    "_title": "Big Trouble in Little China",
+    "rating": "5"
+  },
+  {
+    "_title": "Big",
+    "rating": "2"
+  },
+  {
+    "_title": "Bill & Ted Face the Music",
+    "rating": "2"
+  },
+  {
+    "_title": "Bill and Teds Excellent Adventure",
+    "rating": "4"
+  },
+  {
+    "_title": "Birdman",
+    "rating": "4",
+    "review": "Awesome"
+  },
+  {
+    "_title": "Black Mirror Bandersnatch",
+    "rating": "3"
+  },
+  {
+    "_title": "Black Panther",
+    "rating": "4"
+  },
+  {
+    "_title": "Black Panther: Wakanda Forever",
+    "rating": "2"
+  },
+  {
+    "_title": "BlackkKlansman"
+  },
+  {
+    "_title": "Blade Runner 2049",
+    "rating": "4"
+  },
+  {
+    "_title": "Blade Runner",
+    "rating": "5"
+  },
+  {
+    "_title": "Blood Machines",
+    "rating": "2",
+    "review": "Interesting graphics/design, but otherwise not good."
+  },
+  {
+    "_title": "Blood Simple",
+    "rating": "2"
+  },
+  {
+    "_title": "Bone Tomahawk",
+    "rating": "0",
+    "review": "Alternated between too boring and just fucking awful violence and gore. I couldn't even finish it."
+  },
+  {
+    "_title": "Bookworm"
+  },
+  {
+    "_title": "Borat Subsequent Moviefilm",
+    "rating": "2"
+  },
+  {
+    "_title": "Borderlands",
+    "rating": "3",
+    "review": "I love the Borderlands games, and I feel like this was a fairly faithful adaptation. That being said, it was not an amazing movie... but it wasn't terrible either."
+  },
+  {
+    "_title": "Braid",
+    "review": "Funded by Ethereum/ERC20 crowdsale, produced by Joe Lubin... Interesting."
+  },
+  {
+    "_title": "Brave",
+    "rating": "2"
+  },
+  {
+    "_title": "Brazil"
+  },
+  {
+    "_title": "Brewster's Millions"
+  },
+  {
+    "_title": "Bullet Train",
+    "rating": "4"
+  },
+  {
+    "_title": "Burn After Reading",
+    "rating": "4"
+  },
+  {
+    "_title": "Buster's Mal Heart"
+  },
+  {
+    "_title": "Bāhubali 2: The Conclcusion",
+    "comments": "This is the one with the dudes with shields being catapulted - ridiculous Bollywood action crazy crap."
+  },
+  {
+    "_title": "Bāhubali: The Beginning"
+  },
+  {
+    "_title": "Captain America: Civil War",
+    "rating": "3"
+  },
+  {
+    "_title": "Captain America: The First Avenger",
+    "rating": "4"
+  },
+  {
+    "_title": "Captain Fantastic",
+    "rating": "4",
+    "review": "Not as funny as I thought, but shows the inherent fallacy of trying to raise perfrect children..."
+  },
+  {
+    "_title": "Captain Horatio Hornblower"
+  },
+  {
+    "_title": "Captain Marvel",
+    "rating": "2"
+  },
+  {
+    "_title": "Captain Phillips",
+    "notes": "Look at me, I am the captain now"
+  },
+  {
+    "_title": "Captain Ron",
+    "rating": "4"
+  },
+  {
+    "_title": "Cars",
+    "rating": "2"
+  },
+  {
+    "_title": "Caught Stealing",
+    "rating": "3"
+  },
+  {
+    "_title": "Cave of Forgotten Dreams",
+    "rating": "2",
+    "review": "Was on a Werner Herzog kick. Interesting."
+  },
+  {
+    "_title": "Central Intelligence",
+    "rating": "4"
+  },
+  {
+    "_title": "Century of Enslavement",
+    "rating": "1",
+    "review": "Ugh, just too damn long. I failed to get the point. I feel like the Fed is unhelpful, but I still can't explain why."
+  },
+  {
+    "_title": "Christopher Robin (2018)",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Civil War (2024)",
+    "rating": "1"
+  },
+  {
+    "_title": "Clash of the Titans",
+    "review": "Corbin says he loves it."
+  },
+  {
+    "_title": "Cocaine Bear"
+  },
+  {
+    "_title": "Coco",
+    "rating": "2",
+    "review": "It was good, but it was too... something... like a pop music song or something. It was engineered to be good and that's what makes it not amazing."
+  },
+  {
+    "_title": "Colossal",
+    "rating": "4",
+    "review": "Best movie about giant monsters, alcoholism, and abusive relationships that I've ever seen."
+  },
+  {
+    "_title": "Coming 2 America",
+    "rating": "4"
+  },
+  {
+    "_title": "Coming to America",
+    "rating": "4"
+  },
+  {
+    "_title": "Companion"
+  },
+  {
+    "_title": "Cops? What?",
+    "rating": "4"
+  },
+  {
+    "_title": "Cowboy Bebop Remix",
+    "rating": "4"
+  },
+  {
+    "_title": "Crimewave",
+    "rating": "2"
+  },
+  {
+    "_title": "DAFT PUNK & LEIJI MATSUMOTO'S INTERSTELLA 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"
+  },
+  {
+    "_title": "DC League of Super-Pets",
+    "rating": "4"
+  },
+  {
+    "_title": "Daddy's Home",
+    "rating": "4"
+  },
+  {
+    "_title": "Dead Man",
+    "rating": "4"
+  },
+  {
+    "_title": "Deadpool & Wolverine",
+    "rating": "4"
+  },
+  {
+    "_title": "Deadpool 2",
+    "rating": "4"
+  },
+  {
+    "_title": "Dear Santa (2024)",
+    "rating": "3"
+  },
+  {
+    "_title": "Death at a Funeral"
+  },
+  {
+    "_title": "Death of a Unicorn",
+    "rating": "2"
+  },
+  {
+    "_title": "Deep Cover",
+    "rating": "4"
+  },
+  {
+    "_title": "Demolition Man",
+    "rating": "2",
+    "review": "Kind of amusing, and somewhat prescient when watching it in 2022, but ultimately not an amazing movie."
+  },
+  {
+    "_title": "Despicable Me 2",
+    "rating": "3"
+  },
+  {
+    "_title": "Despicable Me 3",
+    "rating": "3"
+  },
+  {
+    "_title": "Despicable Me 4",
+    "rating": "3"
+  },
+  {
+    "_title": "Despicable Me",
+    "rating": "4"
+  },
+  {
+    "_title": "Divergent",
+    "rating": "1",
+    "review": "Dumb - I need to stop watching this kinda shit."
+  },
+  {
+    "_title": "Doctor Strange in the Multiverse of Madness",
+    "rating": "3"
+  },
+  {
+    "_title": "Doctor Strange",
+    "rating": "4"
+  },
+  {
+    "_title": "Don't Look Up",
+    "rating": "5"
+  },
+  {
+    "_title": "Don't Worry, He Won't Get Far on Foot"
+  },
+  {
+    "_title": "Donnie Darko",
+    "rating": "5",
+    "review": "Great"
+  },
+  {
+    "_title": "Doomsday",
+    "rating": "4",
+    "review": "Ridiculous"
+  },
+  {
+    "_title": "Dora and the Lost City of Gold",
+    "rating": "3"
+  },
+  {
+    "_title": "Downsizing",
+    "rating": "4"
+  },
+  {
+    "_title": "Dream Scenario"
+  },
+  {
+    "_title": "Dredd",
+    "rating": "4"
+  },
+  {
+    "_title": "Dumb Money",
+    "rating": "4"
+  },
+  {
+    "_title": "Dumb and Dumber To",
+    "rating": "2"
+  },
+  {
+    "_title": "Dune (2020)",
+    "rating": "5"
+  },
+  {
+    "_title": "Dungeons & Dragons: Honor Among Thieves",
+    "rating": "5"
+  },
+  {
+    "_title": "Dust Bunny"
+  },
+  {
+    "_title": "E.T. the Extra Terrestrial"
+  },
+  {
+    "_title": "Edge of Tomorrow",
+    "rating": "4"
+  },
+  {
+    "_title": "Elf",
+    "rating": "5",
+    "review": "Hilarious!"
+  },
+  {
+    "_title": "Encanto",
+    "rating": "4"
+  },
+  {
+    "_title": "Encounters at the End of the World",
+    "rating": "2",
+    "review": "Was on a Werner Herzog kick. Interesting."
+  },
+  {
+    "_title": "Enola Holmes 2",
+    "rating": "4"
+  },
+  {
+    "_title": "Enola Holmes",
+    "rating": "4"
+  },
+  {
+    "_title": "Entergalactic",
+    "rating": "3"
+  },
+  {
+    "_title": "Ernest Goes to Camp",
+    "rating": "5"
+  },
+  {
+    "_title": "Ernest Saves Christmas",
+    "rating": "4"
+  },
+  {
+    "_title": "Escape from L.A.",
+    "rating": "5"
+  },
+  {
+    "_title": "Escape from New York",
+    "rating": "3"
+  },
+  {
+    "_title": "Eternal Sunshine of the Spotless Mind",
+    "rating": "5"
+  },
+  {
+    "_title": "Everything Everywhere All at Once",
+    "rating": "5"
+  },
+  {
+    "_title": "Everything is Illuminated"
+  },
+  {
+    "_title": "Evilspeak"
+  },
+  {
+    "_title": "Explorers",
+    "rating": "2",
+    "review": "was good when I was a kid. didn't hold up."
+  },
+  {
+    "_title": "Extra ordinary"
+  },
+  {
+    "_title": "Fantastic Beasts and Where to Find Them",
+    "rating": "2"
+  },
+  {
+    "_title": "Fargo",
+    "rating": "4"
+  },
+  {
+    "_title": "Ferris Bueller's Day Off"
+  },
+  {
+    "_title": "Fight Club",
+    "rating": "5"
+  },
+  {
+    "_title": "Finch",
+    "rating": "2",
+    "review": "Trash"
+  },
+  {
+    "_title": "Finding Dory",
+    "rating": "2"
+  },
+  {
+    "_title": "Finding Nemo",
+    "rating": "2"
+  },
+  {
+    "_title": "Finding Ohana"
+  },
+  {
+    "_title": "First Strike",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Flash Gordon",
+    "rating": "4"
+  },
+  {
+    "_title": "Flight of the Navigator",
+    "rating": "2",
+    "review": "I liked this movie when I was a kid, but it's really not that interesting."
+  },
+  {
+    "_title": "Flow",
+    "rating": "4"
+  },
+  {
+    "_title": "Fly Me to the Moon",
+    "rating": "3"
+  },
+  {
+    "_title": "Freakonomics",
+    "rating": "2",
+    "review": "Basically just a video podcast. It's alright, but the podcasts are better."
+  },
+  {
+    "_title": "Free guy",
+    "rating": "3"
+  },
+  {
+    "_title": "Freelance",
+    "rating": "2",
+    "review": "Decent but not good enough to recommend."
+  },
+  {
+    "_title": "Furiosa: A Mad Max Saga",
+    "rating": "3"
+  },
+  {
+    "_title": "G20",
+    "rating": "2"
+  },
+  {
+    "_title": "Gambit"
+  },
+  {
+    "_title": "Game Night",
+    "rating": "4"
+  },
+  {
+    "_title": "Gentlemen Broncos",
+    "rating": "4"
+  },
+  {
+    "_title": "Geostorm"
+  },
+  {
+    "_title": "Get Out",
+    "rating": "4"
+  },
+  {
+    "_title": "Ghost Story"
+  },
+  {
+    "_title": "Ghost in the Shell 2.0"
+  },
+  {
+    "_title": "Ghost in the Shell",
+    "rating": "2"
+  },
+  {
+    "_title": "Ghostbusters II",
+    "rating": "4"
+  },
+  {
+    "_title": "Ghostbusters",
+    "rating": "4"
+  },
+  {
+    "_title": "Ghostbusters: Afterlife",
+    "rating": "4"
+  },
+  {
+    "_title": "Ghostbusters: Frozen Empire",
+    "rating": "4"
+  },
+  {
+    "_title": "Glass Onion",
+    "rating": "4"
+  },
+  {
+    "_title": "Gleaming the Cube"
+  },
+  {
+    "_title": "Going in Style",
+    "rating": "2",
+    "review": "meh"
+  },
+  {
+    "_title": "Gone Girl",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "Good Fortune",
+    "rating": "4"
+  },
+  {
+    "_title": "Gremlins"
+  },
+  {
+    "_title": "Guardians of the Galaxy Vol. 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Guardians of the Galaxy Vol. 3",
+    "rating": "4"
+  },
+  {
+    "_title": "Guardians of the Galaxy",
+    "rating": "4"
+  },
+  {
+    "_title": "Guns Akimbo",
+    "rating": "3"
+  },
+  {
+    "_title": "Hackers",
+    "rating": "4"
+  },
+  {
+    "_title": "Hail, Caesar!",
+    "rating": "2"
+  },
+  {
+    "_title": "Half Baked",
+    "rating": "4"
+  },
+  {
+    "_title": "Happy People",
+    "rating": "2",
+    "review": "Was on a Werner Herzog kick. Interesting."
+  },
+  {
+    "_title": "Hard Eight",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Hardcore Henry",
+    "rating": "4",
+    "review": "Really only worth watching because of the perspective."
+  },
+  {
+    "_title": "Harry Potter and the Chamber of Secrets",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Deathly Hallows: Part 1",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Goblet of Fire",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Half-Blood Prince",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Order of the Phoenix",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Philosopher's Stone",
+    "rating": "3"
+  },
+  {
+    "_title": "Harry Potter and the Prisoner of Azkaban",
+    "rating": "3"
+  },
+  {
+    "_title": "Heads of State",
+    "rating": "3"
+  },
+  {
+    "_title": "Heathers",
+    "rating": "2"
+  },
+  {
+    "_title": "Hell Comes to Frogtown",
+    "rating": "4"
+  },
+  {
+    "_title": "Her"
+  },
+  {
+    "_title": "Hey Big Boy (Bert Kreischer)"
+  },
+  {
+    "_title": "Hidden Figures",
+    "rating": "2"
+  },
+  {
+    "_title": "Hilda the Mountain King",
+    "rating": "2"
+  },
+  {
+    "_title": "History of the World: Part I",
+    "rating": "2",
+    "review": "Pretty cringe by modern standards... The good parts seemed overshadowed by it."
+  },
+  {
+    "_title": "Hocus Pocus 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Hocus Pocus",
+    "rating": "2"
+  },
+  {
+    "_title": "Home (2015)",
+    "rating": "4"
+  },
+  {
+    "_title": "Honey Boy"
+  },
+  {
+    "_title": "Horatio Hornblower: The Duel",
+    "review": "This is an A&E series of movies actually."
+  },
+  {
+    "_title": "Horrible Bosses 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Hot Fuzz",
+    "rating": "4"
+  },
+  {
+    "_title": "House of Wolves",
+    "rating": "2",
+    "review": "Pretty funny. Watched on a plane with no sound. I should watch it again with sound. Update: borrowed it from the library, but it wasn't interesting enough to watch again."
+  },
+  {
+    "_title": "How It Ends",
+    "rating": "4",
+    "review": "https://en.wikipedia.org/wiki/How_It_Ends_(2021_film)"
+  },
+  {
+    "_title": "Howl's Moving Castle",
+    "rating": "4",
+    "review": "Ends rather abruptly and stupidly, but it was mostly enjoyable."
+  },
+  {
+    "_title": "Hundreds of Beavers",
+    "rating": "4"
+  },
+  {
+    "_title": "I Am Mother",
+    "rating": "4",
+    "review": "A nice, morally-confusing movie about a robo-mom."
+  },
+  {
+    "_title": "I Don't Feel at Home in This World Anymore.",
+    "rating": "2",
+    "review": "Good, but not good enough to recommend."
+  },
+  {
+    "_title": "I Lost My Body",
+    "rating": "4"
+  },
+  {
+    "_title": "I Used to Go Here",
+    "rating": "2",
+    "review": "Decent, but not good enough to recommend..."
+  },
+  {
+    "_title": "I am not an Easy Man",
+    "rating": "4"
+  },
+  {
+    "_title": "I heart Huckabees",
+    "rating": "4"
+  },
+  {
+    "_title": "I'm Totally Fine",
+    "rating": "2"
+  },
+  {
+    "_title": "IT (2017)",
+    "rating": "2",
+    "review": "Corbin made me watch this. We are both traumatized now."
+  },
+  {
+    "_title": "Ice Pirates"
+  },
+  {
+    "_title": "Ichi the Killer",
+    "rating": "2",
+    "review": "Watched 10 minutes. Boring/stupid. Watched trailer. Fuck! Nope."
+  },
+  {
+    "_title": "Idiocracy",
+    "rating": "5"
+  },
+  {
+    "_title": "In Time",
+    "rating": "4"
+  },
+  {
+    "_title": "In a World",
+    "rating": "2",
+    "review": "Pretty good"
+  },
+  {
+    "_title": "Incredibles 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Indiana Jones and the Dial of Destiny",
+    "rating": "3"
+  },
+  {
+    "_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "rating": "4"
+  },
+  {
+    "_title": "Indiana Jones and the Last Crusade",
+    "rating": "4"
+  },
+  {
+    "_title": "Indiana Jones and the Raiders of the Lost Ark",
+    "rating": "4"
+  },
+  {
+    "_title": "Indiana Jones and the Temple of Doom",
+    "rating": "4"
+  },
+  {
+    "_title": "Inherent Vice",
+    "rating": "2"
+  },
+  {
+    "_title": "Inside Llewyn Davis"
+  },
+  {
+    "_title": "Inside Out",
+    "rating": "2"
+  },
+  {
+    "_title": "Inside",
+    "review": "https://www.imdb.com/title/tt14544192/"
+  },
+  {
+    "_title": "Interstellar",
+    "rating": "4",
+    "review": "Good"
+  },
+  {
+    "_title": "Intolerable Cruelty",
+    "rating": "2"
+  },
+  {
+    "_title": "Inu-oh",
+    "notes": "Recommended by Patrick - he says it's a anime rock opera - totally not what he expected"
+  },
+  {
+    "_title": "Iron Eagle"
+  },
+  {
+    "_title": "Iron Man 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Iron Man",
+    "rating": "4"
+  },
+  {
+    "_title": "Isle of Dogs",
+    "rating": "4"
+  },
+  {
+    "_title": "It's Such a Beautiful Day",
+    "review": "Don Hertzfeldt"
+  },
+  {
+    "_title": "JUMANJI"
+  },
+  {
+    "_title": "JUMANJI: WELCOME TO THE JUNGLE",
+    "rating": "2"
+  },
+  {
+    "_title": "Jackass 2.5"
+  },
+  {
+    "_title": "Jackass 3.5"
+  },
+  {
+    "_title": "Jackass 3D"
+  },
+  {
+    "_title": "Jackass Number Two",
+    "rating": "4"
+  },
+  {
+    "_title": "Jackass: The Movie",
+    "rating": "4"
+  },
+  {
+    "_title": "Jojo Rabbit",
+    "rating": "5",
+    "review": "Such a great, weird movie. I aspire to be like Rosie - she was an amazing parent."
+  },
+  {
+    "_title": "Joker",
+    "rating": "4"
+  },
+  {
+    "_title": "Joker: Folie à Deux",
+    "rating": "3"
+  },
+  {
+    "_title": "Jupiter Ascending",
+    "rating": "2",
+    "review": "Pretty but dumb"
+  },
+  {
+    "_title": "Jurassic Park",
+    "rating": "4",
+    "review": "It's a UNIX system! I know this!"
+  },
+  {
+    "_title": "Kajillionaire",
+    "rating": "4"
+  },
+  {
+    "_title": "Karate Kid",
+    "rating": "4"
+  },
+  {
+    "_title": "Keanu",
+    "rating": "4"
+  },
+  {
+    "_title": "Kiki's Delivery Service",
+    "rating": "2",
+    "review": "Meh"
+  },
+  {
+    "_title": "Kill Bill volume 1",
+    "rating": "4"
+  },
+  {
+    "_title": "Kingsman: The Secret Service",
+    "rating": "2",
+    "review": "Not sure why I finished it. Just tropy spy weirdness."
+  },
+  {
+    "_title": "Knives Out",
+    "rating": "4"
+  },
+  {
+    "_title": "Kopps",
+    "review": "Swedish movie"
+  },
+  {
+    "_title": "Krampus"
+  },
+  {
+    "_title": "Krull"
+  },
+  {
+    "_title": "Kung Fu Hustle",
+    "rating": "4",
+    "review": "Didn't hold up as well as I thought, especially if you're watching the dubbed version, but still pretty damn good, ha."
+  },
+  {
+    "_title": "Kung Fu Panda",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Kung Pow! Enter the Fist",
+    "rating": "5"
+  },
+  {
+    "_title": "Kung fury full length"
+  },
+  {
+    "_title": "Lady Bird (2017)",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Lady Hawke",
+    "notes": "Recommended by Scott"
+  },
+  {
+    "_title": "Land of the Lost",
+    "rating": "4"
+  },
+  {
+    "_title": "Lara Croft: Tomb Raider (2001)",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "Lazer Team",
+    "rating": "2"
+  },
+  {
+    "_title": "Lightyear",
+    "rating": "2"
+  },
+  {
+    "_title": "Lo and Behold, Reveries of the Connected World",
+    "rating": "2",
+    "review": "Good, but too many kooks and mostly depressing."
+  },
+  {
+    "_title": "Logan Lucky",
+    "rating": "2"
+  },
+  {
+    "_title": "Lost Highway",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "Lost in Translation",
+    "rating": "4"
+  },
+  {
+    "_title": "Love Me"
+  },
+  {
+    "_title": "Love and Monsters",
+    "rating": "4"
+  },
+  {
+    "_title": "Luca",
+    "rating": "4"
+  },
+  {
+    "_title": "Lucky Number Slevin"
+  },
+  {
+    "_title": "M3gan",
+    "rating": "2"
+  },
+  {
+    "_title": "Mad Max Beyond Thunderdome",
+    "rating": "2",
+    "review": "I was sitting here thinking whether this is good enough to borrow from the library, and I was like... nah... so, I gave it an N."
+  },
+  {
+    "_title": "Mad Max Fury Road",
+    "rating": "2",
+    "review": "Meh"
+  },
+  {
+    "_title": "Madagascar",
+    "rating": "4"
+  },
+  {
+    "_title": "Magnolia",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Maiden"
+  },
+  {
+    "_title": "Marvel's the Avengers",
+    "rating": "4"
+  },
+  {
+    "_title": "Mary Poppins",
+    "rating": "4"
+  },
+  {
+    "_title": "Master and Commander",
+    "review": "Has the HMS Surprise!"
+  },
+  {
+    "_title": "Matilda",
+    "rating": "4"
+  },
+  {
+    "_title": "Me, You, and Everyone we Know",
+    "rating": "4"
+  },
+  {
+    "_title": "Mickey 17",
+    "rating": "4"
+  },
+  {
+    "_title": "Midsommer",
+    "rating": "1",
+    "review": "One of Beth's favorite movies. Unfortunately, the genre of psychological thrillers + gore is really hard for my sensitive ass to watch."
+  },
+  {
+    "_title": "Migration",
+    "rating": "3"
+  },
+  {
+    "_title": "Mike & Dave Need Wedding Dates",
+    "rating": "2",
+    "review": "Funny and stupid."
+  },
+  {
+    "_title": "Miller's Crossing",
+    "rating": "4"
+  },
+  {
+    "_title": "Milo and Otis",
+    "rating": "4",
+    "review": "Pretty awesome. Corbin loved it. We watched this a bunch of times in the minivan."
+  },
+  {
+    "_title": "Minions",
+    "rating": "4"
+  },
+  {
+    "_title": "Minions: Rise of Gru",
+    "rating": "2"
+  },
+  {
+    "_title": "Moana 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Moana",
+    "rating": "4"
+  },
+  {
+    "_title": "Monkey Man"
+  },
+  {
+    "_title": "Monty Python and The Holy Grail",
+    "rating": "5"
+  },
+  {
+    "_title": "Moonfall",
+    "rating": "4"
+  },
+  {
+    "_title": "Moonstruck"
+  },
+  {
+    "_title": "Mortal Kombat (2021)"
+  },
+  {
+    "_title": "Mortal Kombat"
+  },
+  {
+    "_title": "Movie 43",
+    "rating": "4",
+    "review": "Completely absurd, heh."
+  },
+  {
+    "_title": "Mr. Poppers Penguins",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Mute"
+  },
+  {
+    "_title": "My Neighbor Totoro",
+    "rating": "5",
+    "review": "Excellent!"
+  },
+  {
+    "_title": "Nadiya's Time to Eat"
+  },
+  {
+    "_title": "Napoleon Dynamite",
+    "rating": "5"
+  },
+  {
+    "_title": "Natural Born Killers",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "Nausicaä of the Valley of the Wind",
+    "rating": "2",
+    "review": "Despite interesting art and world, it just didn't grab me."
+  },
+  {
+    "_title": "Needle in a Timestack"
+  },
+  {
+    "_title": "Nimona",
+    "rating": "3"
+  },
+  {
+    "_title": "No Country for Old Men",
+    "rating": "2"
+  },
+  {
+    "_title": "No Hard Feelings (2023)",
+    "rating": "5",
+    "review": "Jennifer Lawrence's most absurd performance, I laughed by my ass off."
+  },
+  {
+    "_title": "Nope",
+    "rating": "4"
+  },
+  {
+    "_title": "Nothing but Trouble",
+    "link": "https://en.wikipedia.org/wiki/Nothing_but_Trouble_(1991_film)"
+  },
+  {
+    "_title": "O Brother, Where Art Thou?",
+    "rating": "5"
+  },
+  {
+    "_title": "Oceans 8",
+    "rating": "2"
+  },
+  {
+    "_title": "Office Space",
+    "rating": "5"
+  },
+  {
+    "_title": "Old Dads",
+    "rating": "3"
+  },
+  {
+    "_title": "On Becoming a Guinea Fowl",
+    "rating": "2"
+  },
+  {
+    "_title": "On Falling"
+  },
+  {
+    "_title": "One Piece",
+    "review": "Netflix. Looks weird. Kids might enjoy it?"
+  },
+  {
+    "_title": "Onward",
+    "rating": "4",
+    "review": "As the haver of a dead dad, this was particurly rough, but good."
+  },
+  {
+    "_title": "Open Wide",
+    "rating": "2",
+    "review": "Mewing, LOL. Started to watch with Corbin, but we never finished it."
+  },
+  {
+    "_title": "Osmosis Jones",
+    "rating": "3"
+  },
+  {
+    "_title": "Paddington 2",
+    "review": "It has absurdly high ratings and was referenced in The Unbearable Weight of Massive Talent..."
+  },
+  {
+    "_title": "Paddington",
+    "rating": "4"
+  },
+  {
+    "_title": "Palm Springs",
+    "rating": "4"
+  },
+  {
+    "_title": "ParaNorman (2012)",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Parasite",
+    "rating": "3"
+  },
+  {
+    "_title": "Passenger",
+    "rating": "4"
+  },
+  {
+    "_title": "Past Lives",
+    "rating": "4",
+    "review": "Recommended by Ilya"
+  },
+  {
+    "_title": "Patriots Day",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "Paws of Fury",
+    "rating": "2",
+    "review": "Weird reboot of Blazing Saddles for kids? It was OK, but not OK enough to recommend."
+  },
+  {
+    "_title": "Pee Wee's Big Adventure"
+  },
+  {
+    "_title": "Peggy Sue Got Married"
+  },
+  {
+    "_title": "Penguins of Madagascar",
+    "rating": "4",
+    "review": "Very solid, rewatchable kids' movie. Watched it several times."
+  },
+  {
+    "_title": "Perfect Day"
+  },
+  {
+    "_title": "Personal Shopper"
+  },
+  {
+    "_title": "Pirates of the Carribean 4",
+    "review": "Has the HMS Surprise!"
+  },
+  {
+    "_title": "Pitch Black",
+    "rating": "4"
+  },
+  {
+    "_title": "Planet Earth",
+    "rating": "4"
+  },
+  {
+    "_title": "Playtime",
+    "review": "https://m.imdb.com/title/tt0062136/"
+  },
+  {
+    "_title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+    "rating": "2"
+  },
+  {
+    "_title": "Pom Poko"
+  },
+  {
+    "_title": "Ponyo",
+    "rating": "4",
+    "review": "Good, but not as good as Totoro"
+  },
+  {
+    "_title": "Poor Things",
+    "rating": "3",
+    "review": "The poor things are the men who try to possess or control the truly liberated woman, Bella. While this movie was fascinating and the cinematography was great, it was pretty uncomfortable to watch."
+  },
+  {
+    "_title": "Pretty in Pink"
+  },
+  {
+    "_title": "Prince of Darkness (1987)"
+  },
+  {
+    "_title": "Princess Mononoke",
+    "rating": "4"
+  },
+  {
+    "_title": "Problemista",
+    "rating": "4"
+  },
+  {
+    "_title": "Prospect",
+    "rating": "3"
+  },
+  {
+    "_title": "Psycho Goreman",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Punch-Drunk Love",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "R.I.P.D.",
+    "rating": "2"
+  },
+  {
+    "_title": "RBG"
+  },
+  {
+    "_title": "RRR",
+    "rating": "4"
+  },
+  {
+    "_title": "Raising Arizona",
+    "rating": "5"
+  },
+  {
+    "_title": "Ralph Breaks the Internet",
+    "rating": "4",
+    "review": "The Disney princesses scenes are hilarious."
+  },
+  {
+    "_title": "Rampage",
+    "rating": "2"
+  },
+  {
+    "_title": "Random Swimmer Films",
+    "rating": "4",
+    "review": "What is this? I put this in here, but I have no idea what I'm referring to."
+  },
+  {
+    "_title": "Rapture-Palooza"
+  },
+  {
+    "_title": "Ratatouille",
+    "rating": "3"
+  },
+  {
+    "_title": "Raya and the Last Dragon",
+    "rating": "2"
+  },
+  {
+    "_title": "Ready Player One",
+    "rating": "4"
+  },
+  {
+    "_title": "Real Genius",
+    "rating": "4"
+  },
+  {
+    "_title": "Rebel Moon: Part One - A Child of Fire",
+    "rating": "2"
+  },
+  {
+    "_title": "Rejected",
+    "rating": "5"
+  },
+  {
+    "_title": "Renfield",
+    "rating": "4"
+  },
+  {
+    "_title": "Return to Oz"
+  },
+  {
+    "_title": "Riftworld Chronicles",
+    "rating": "4",
+    "review": "http://riftworldchronicles.com/"
+  },
+  {
+    "_title": "Robin Hood: Men in Tights",
+    "rating": "2"
+  },
+  {
+    "_title": "Robocop"
+  },
+  {
+    "_title": "Robot Dreams"
+  },
+  {
+    "_title": "Rogue One: A Star Wars Story",
+    "rating": "4"
+  },
+  {
+    "_title": "Ron Funches: Giggle Fit"
+  },
+  {
+    "_title": "SLC Punk",
+    "rating": "4"
+  },
+  {
+    "_title": "Sandy Wexler",
+    "rating": "4"
+  },
+  {
+    "_title": "Sausage Party",
+    "rating": "0",
+    "review": "Couldn't even make it through this. Can't believe so many great actors had roles in this lousy movie."
+  },
+  {
+    "_title": "Save Yourselves!",
+    "rating": "2",
+    "review": "Generally good, but it lacked a real ending..."
+  },
+  {
+    "_title": "Scarface",
+    "review": "Cohen Bro's version"
+  },
+  {
+    "_title": "Scrooged",
+    "rating": "4"
+  },
+  {
+    "_title": "Self Reliance",
+    "rating": "3"
+  },
+  {
+    "_title": "Serenity",
+    "rating": "4"
+  },
+  {
+    "_title": "Severed Ways",
+    "review": "Recommended by Rick Perry."
+  },
+  {
+    "_title": "Shaolin Soccer",
+    "rating": "4",
+    "review": "Rhys liked this one. We should watch it again, now that he's into soccer."
+  },
+  {
+    "_title": "Shazam",
+    "rating": "4"
+  },
+  {
+    "_title": "Short Circuit 2",
+    "rating": "4"
+  },
+  {
+    "_title": "Short Circuit",
+    "rating": "4"
+  },
+  {
+    "_title": "Shrek 2",
+    "rating": "4"
+  },
+  {
+    "_title": "Shrek",
+    "rating": "4"
+  },
+  {
+    "_title": "Sidekicks (1992)",
+    "rating": "4"
+  },
+  {
+    "_title": "Silence of the Hams"
+  },
+  {
+    "_title": "Sin City",
+    "rating": "4"
+  },
+  {
+    "_title": "Sisters",
+    "rating": "4",
+    "review": "Hilarious!"
+  },
+  {
+    "_title": "Sita Sings the Blues"
+  },
+  {
+    "_title": "Slumberland",
+    "rating": "2"
+  },
+  {
+    "_title": "Snatch",
+    "rating": "4"
+  },
+  {
+    "_title": "Snowpiercer",
+    "rating": "2",
+    "review": "Meh"
+  },
+  {
+    "_title": "Solo: A Star Wars Story",
+    "rating": "4"
+  },
+  {
+    "_title": "Song of the Sea",
+    "rating": "5",
+    "review": "Great movie!"
+  },
+  {
+    "_title": "Sonic the Hedgehog 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Sonic the Hedgehog",
+    "rating": "2"
+  },
+  {
+    "_title": "Sorry to Bother You",
+    "rating": "4"
+  },
+  {
+    "_title": "Soul",
+    "rating": "2"
+  },
+  {
+    "_title": "Sound of music"
+  },
+  {
+    "_title": "Southland Tales",
+    "rating": "4"
+  },
+  {
+    "_title": "Space Sweepers",
+    "rating": "2"
+  },
+  {
+    "_title": "Spaceballs",
+    "rating": "5"
+  },
+  {
+    "_title": "Spider-Man: Across the Spider-Verse",
+    "rating": "4"
+  },
+  {
+    "_title": "Spider-Man: Far From Home",
+    "rating": "3"
+  },
+  {
+    "_title": "Spider-Man: Into the Spider-Verse",
+    "rating": "4"
+  },
+  {
+    "_title": "Spirited Away",
+    "rating": "2"
+  },
+  {
+    "_title": "St. Vincent",
+    "rating": "2",
+    "review": "Bill Murray. Good."
+  },
+  {
+    "_title": "Star Trek Beyond",
+    "rating": "2"
+  },
+  {
+    "_title": "Star Trek: Section 31",
+    "rating": "1",
+    "review": "Just bad... What the hell."
+  },
+  {
+    "_title": "Star Wars: Episode I – The Phantom Menace",
+    "rating": "3"
+  },
+  {
+    "_title": "Star Wars: Episode II – Attack of the Clones",
+    "rating": "3"
+  },
+  {
+    "_title": "Star Wars: Episode III – Revenge of the Sith",
+    "rating": "3"
+  },
+  {
+    "_title": "Star Wars: Episode IV – A New Hope",
+    "rating": "4"
+  },
+  {
+    "_title": "Star Wars: Episode V – The Empire Strikes Back",
+    "rating": "4"
+  },
+  {
+    "_title": "Star Wars: Episode VI – Return of the Jedi",
+    "rating": "4"
+  },
+  {
+    "_title": "Star Wars: Episode VII – The Force Awakens",
+    "rating": "3"
+  },
+  {
+    "_title": "Star Wars: The Last Jedi",
+    "rating": "4"
+  },
+  {
+    "_title": "Star Wars: The Rise of Skywalker",
+    "rating": "2"
+  },
+  {
+    "_title": "Stargate",
+    "rating": "5",
+    "review": "One of my mom's favorite movies. And mine too."
+  },
+  {
+    "_title": "Step Brothers",
+    "rating": "4"
+  },
+  {
+    "_title": "Strange World",
+    "rating": "2"
+  },
+  {
+    "_title": "Suburbicon"
+  },
+  {
+    "_title": "Sukiyaki Western Django"
+  },
+  {
+    "_title": "Super Troopers 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Super Troopers",
+    "rating": "4"
+  },
+  {
+    "_title": "Superintelegence",
+    "rating": "3",
+    "review": "Decent, but not good enough to recommend..."
+  },
+  {
+    "_title": "Superlopez",
+    "rating": "2"
+  },
+  {
+    "_title": "Swiss Army Man",
+    "rating": "3",
+    "review": "Certainly different. Got a few laughs."
+  },
+  {
+    "_title": "Sword in the Stone",
+    "rating": "4",
+    "review": "One of my favorite Disney movies."
+  },
+  {
+    "_title": "Synecdoche, New York (2008)",
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+  },
+  {
+    "_title": "Tag",
+    "rating": "4"
+  },
+  {
+    "_title": "Teenage Mutant Ninja Turtles",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+    "rating": "4"
+  },
+  {
+    "_title": "Tekken"
+  },
+  {
+    "_title": "Terminator movies"
+  },
+  {
+    "_title": "Tetris",
+    "rating": "2"
+  },
+  {
+    "_title": "Thank You for Supporting the Arts"
+  },
+  {
+    "_title": "The Adam Project",
+    "rating": "4"
+  },
+  {
+    "_title": "The Adventures of Buckaroo Banzai Across the 8th Dimension"
+  },
+  {
+    "_title": "The Art of Self-Defense",
+    "rating": "4"
+  },
+  {
+    "_title": "The Artifice Girl"
+  },
+  {
+    "_title": "The Bad Guys",
+    "rating": "4"
+  },
+  {
+    "_title": "The Ballad of Buster Scruggs",
+    "rating": "3"
+  },
+  {
+    "_title": "The Beach",
+    "review": "A24"
+  },
+  {
+    "_title": "The Big Lebowski",
+    "rating": "5"
+  },
+  {
+    "_title": "The Big Year",
+    "review": "About birdwatch? Recommended by Marisol."
+  },
+  {
+    "_title": "The Boy and the Heron",
+    "rating": "2",
+    "review": "It's like Miyazaki is parodying himself..."
+  },
+  {
+    "_title": "The Burbs"
+  },
+  {
+    "_title": "The Care Bears Movie"
+  },
+  {
+    "_title": "The Christmas Chronicles 2"
+  },
+  {
+    "_title": "The Christmas Chronicles",
+    "rating": "4"
+  },
+  {
+    "_title": "The Chronicles of Riddick"
+  },
+  {
+    "_title": "The Chronicles of Riddick: Dark Fury"
+  },
+  {
+    "_title": "The Circle",
+    "rating": "3",
+    "review": "Enjoyed the book. Movie was the same. Whatever."
+  },
+  {
+    "_title": "The City of Lost Children",
+    "rating": "4"
+  },
+  {
+    "_title": "The Conformist",
+    "review": "https://www.rottentomatoes.com/m/conformist"
+  },
+  {
+    "_title": "The Corsican Brothers"
+  },
+  {
+    "_title": "The Dead Don't Die",
+    "rating": "5"
+  },
+  {
+    "_title": "The Death of Stalin",
+    "rating": "2"
+  },
+  {
+    "_title": "The Donut King",
+    "review": "Arturo recommends"
+  },
+  {
+    "_title": "The Endless",
+    "review": "Horror but looks good? Give it a try."
+  },
+  {
+    "_title": "The Fall Guy (2024)"
+  },
+  {
+    "_title": "The Fall",
+    "review": "Recommended by Tony https://m.imdb.com/title/tt0460791/?ref_=fn_al_tt_3"
+  },
+  {
+    "_title": "The Fifth Element",
+    "rating": "5"
+  },
+  {
+    "_title": "The Flight of Dragons"
+  },
+  {
+    "_title": "The Forbidden Kingdom",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "The Future",
+    "review": "https://m.imdb.com/title/tt1235170/?ref_=m_nmfmd_dr_4"
+  },
+  {
+    "_title": "The Girl with the Dragon Tattoo",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "The Glass Castle"
+  },
+  {
+    "_title": "The Golden Child",
+    "review": "4"
+  },
+  {
+    "_title": "The Goonies",
+    "rating": "4"
+  },
+  {
+    "_title": "The Gorge",
+    "rating": "3"
+  },
+  {
+    "_title": "The Hateful Eight",
+    "rating": "2",
+    "review": "Kinda good despite racial epithets, until it turned to shit."
+  },
+  {
+    "_title": "The Highwaymen"
+  },
+  {
+    "_title": "The History of Future Folk",
+    "rating": "2"
+  },
+  {
+    "_title": "The Hitman's Bodyguard",
+    "rating": "2"
+  },
+  {
+    "_title": "The Hudsucker Proxy",
+    "rating": "4"
+  },
+  {
+    "_title": "The Hunger Games: Catching Fire",
+    "rating": "4"
+  },
+  {
+    "_title": "The Hunger Games: Mockingjay, Part 1",
+    "rating": "4"
+  },
+  {
+    "_title": "The Hunger Games: Mockingjay, Part 2",
+    "rating": "4"
+  },
+  {
+    "_title": "The Hunger Games: The Ballad of Songbirds and Snakes"
+  },
+  {
+    "_title": "The Incredibles",
+    "rating": "2"
+  },
+  {
+    "_title": "The Jerk",
+    "rating": "4"
+  },
+  {
+    "_title": "The Ladykillers"
+  },
+  {
+    "_title": "The Larva Island Movie"
+  },
+  {
+    "_title": "The Last Dragon",
+    "rating": "2"
+  },
+  {
+    "_title": "The Last Starfighter"
+  },
+  {
+    "_title": "The Lego Batman Movie"
+  },
+  {
+    "_title": "The Lego Movie"
+  },
+  {
+    "_title": "The Little Hours",
+    "rating": "2",
+    "review": "Weird, but not amazing."
+  },
+  {
+    "_title": "The Little Mermaid",
+    "rating": "3",
+    "review": "Just not that big a fan of the Little Mermaid. Whatever."
+  },
+  {
+    "_title": "The Machine",
+    "rating": "2"
+  },
+  {
+    "_title": "The Magnificent Seven",
+    "rating": "2"
+  },
+  {
+    "_title": "The Man Who Wasn't There",
+    "rating": "2"
+  },
+  {
+    "_title": "The Mandela Effect"
+  },
+  {
+    "_title": "The Martian",
+    "rating": "4"
+  },
+  {
+    "_title": "The Midnight Sky",
+    "rating": "2"
+  },
+  {
+    "_title": "The Ministry of Ungentlemanly Warfare",
+    "rating": "3"
+  },
+  {
+    "_title": "The Mitchells vs. the Machines",
+    "rating": "4"
+  },
+  {
+    "_title": "The Naked Gun (2025)",
+    "rating": "2"
+  },
+  {
+    "_title": "The Naked Man",
+    "rating": "2"
+  },
+  {
+    "_title": "The Neverending Story"
+  },
+  {
+    "_title": "The Nice Guys",
+    "rating": "4"
+  },
+  {
+    "_title": "The Penguin Lessons",
+    "rating": "4"
+  },
+  {
+    "_title": "The Phantom of the Open",
+    "rating": "4"
+  },
+  {
+    "_title": "The Red Turtle"
+  },
+  {
+    "_title": "The Samurai of Ayothaya (aka Muay Thai Warrior)",
+    "rating": "2"
+  },
+  {
+    "_title": "The Sandlot",
+    "rating": "4"
+  },
+  {
+    "_title": "The Secret Life of Pets",
+    "rating": "2"
+  },
+  {
+    "_title": "The Social Dilemma",
+    "rating": "4"
+  },
+  {
+    "_title": "The Social Network",
+    "rating": "3",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "The Spy Next Door",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "The Suicide Squad"
+  },
+  {
+    "_title": "The Super Mario Bros Movie (2023)",
+    "rating": "2"
+  },
+  {
+    "_title": "The Swedish Theory of Love"
+  },
+  {
+    "_title": "The Theory of Everything",
+    "rating": "4",
+    "review": "Stephen Hawking has had a hard, but interesting life."
+  },
+  {
+    "_title": "The Tomorrow War",
+    "rating": "2"
+  },
+  {
+    "_title": "The Toy"
+  },
+  {
+    "_title": "The Transformers the Movie (1986)"
+  },
+  {
+    "_title": "The Unbearable Weight of Massive Talent",
+    "rating": "4"
+  },
+  {
+    "_title": "The Union",
+    "rating": "2"
+  },
+  {
+    "_title": "The VelociPastor",
+    "rating": "2"
+  },
+  {
+    "_title": "The Vietnam War by Ken Burns and Lynn Novick",
+    "review": "Music by NIN"
+  },
+  {
+    "_title": "The Wandering Earth 2"
+  },
+  {
+    "_title": "The Wandering Earth",
+    "rating": "4"
+  },
+  {
+    "_title": "The Weather Man"
+  },
+  {
+    "_title": "The Wild Robot",
+    "rating": "3",
+    "review": "Rhys wanted to see it. Decent."
+  },
+  {
+    "_title": "The Wizard of Oz",
+    "rating": "3"
+  },
+  {
+    "_title": "They Cloned Tyrone",
+    "rating": "4"
+  },
+  {
+    "_title": "They Live",
+    "rating": "4"
+  },
+  {
+    "_title": "This Is A Disaster",
+    "rating": "2"
+  },
+  {
+    "_title": "This Place Rules",
+    "rating": "2"
+  },
+  {
+    "_title": "Thor",
+    "rating": "2"
+  },
+  {
+    "_title": "Thor: Ragnarok",
+    "rating": "2",
+    "review": "A bunch of fighting and like 3 funny parts. Typical comic book movie."
+  },
+  {
+    "_title": "Three Amigos",
+    "rating": "4"
+  },
+  {
+    "_title": "Three Billboards Outside Ebbing, Missouri"
+  },
+  {
+    "_title": "Thunderbolts*",
+    "rating": "2"
+  },
+  {
+    "_title": "Tickling Giants"
+  },
+  {
+    "_title": "Tom Segura: Ball Hog"
+  },
+  {
+    "_title": "Tom and Jerry movie",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Tommy Boy",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Total Recall",
+    "rating": "4"
+  },
+  {
+    "_title": "Toy Story 2",
+    "rating": "2"
+  },
+  {
+    "_title": "Toy Story 3",
+    "rating": "2"
+  },
+  {
+    "_title": "Toy Story",
+    "rating": "2"
+  },
+  {
+    "_title": "Train Wreck",
+    "rating": "3"
+  },
+  {
+    "_title": "Triangle of Sadness",
+    "rating": "4"
+  },
+  {
+    "_title": "Tron",
+    "rating": "4",
+    "review": "watch with kids"
+  },
+  {
+    "_title": "Tron: Ares"
+  },
+  {
+    "_title": "True Grit",
+    "rating": "2"
+  },
+  {
+    "_title": "True Romance",
+    "notes": "Recommended by Scott. I've seen it before, but don't remember it."
+  },
+  {
+    "_title": "Twas the Night Before Spongemas"
+  },
+  {
+    "_title": "Twisters (2024)",
+    "rating": "4"
+  },
+  {
+    "_title": "UHF",
+    "rating": "5"
+  },
+  {
+    "_title": "Uglies",
+    "rating": "2"
+  },
+  {
+    "_title": "Uncharted",
+    "rating": "2"
+  },
+  {
+    "_title": "Uncut gems",
+    "review": "Recommended by Brian"
+  },
+  {
+    "_title": "Underwater",
+    "rating": "2"
+  },
+  {
+    "_title": "Up",
+    "rating": "4"
+  },
+  {
+    "_title": "Us",
+    "rating": "3"
+  },
+  {
+    "_title": "Valerian",
+    "rating": "2"
+  },
+  {
+    "_title": "Valley Girls",
+    "notes": "Recommended by Scott"
+  },
+  {
+    "_title": "Vengeance",
+    "rating": "4"
+  },
+  {
+    "_title": "Vesper"
+  },
+  {
+    "_title": "Vice Versa"
+  },
+  {
+    "_title": "Violent Night",
+    "rating": "4"
+  },
+  {
+    "_title": "WALL-E",
+    "rating": "4"
+  },
+  {
+    "_title": "Wake Up Dead Man: A Knives Out Mystery",
+    "rating": "4"
+  },
+  {
+    "_title": "Wakefield"
+  },
+  {
+    "_title": "Wallace & Gromit: Vengeance Most Fowl",
+    "rating": "4"
+  },
+  {
+    "_title": "War Dogs",
+    "rating": "4"
+  },
+  {
+    "_title": "Waterworld",
+    "rating": "4"
+  },
+  {
+    "_title": "Wayne's World 2"
+  },
+  {
+    "_title": "Wayne's World"
+  },
+  {
+    "_title": "We Are Many"
+  },
+  {
+    "_title": "Weird: The Al Yankovic Story",
+    "rating": "3"
+  },
+  {
+    "_title": "What We Do in the Shadows",
+    "rating": "4",
+    "review": "Hilarious"
+  },
+  {
+    "_title": "What the Health?",
+    "rating": "4",
+    "review": "It's good to get fired up about stupid shit in our world."
+  },
+  {
+    "_title": "Where'd You Go, Bernadette",
+    "rating": "4"
+  },
+  {
+    "_title": "Wicked",
+    "rating": "4"
+  },
+  {
+    "_title": "Willow",
+    "rating": "4"
+  },
+  {
+    "_title": "Willy Wonka"
+  },
+  {
+    "_title": "Willy's Wonderland",
+    "rating": "2"
+  },
+  {
+    "_title": "Wine Country",
+    "rating": "2"
+  },
+  {
+    "_title": "Wonder Woman 1984",
+    "rating": "2",
+    "review": "Just total garbage. Damn shame considering the decent cast."
+  },
+  {
+    "_title": "Wonder Woman",
+    "rating": "4"
+  },
+  {
+    "_title": "World of Tomorrow",
+    "review": "Don Hertzfeldt"
+  },
+  {
+    "_title": "Wreck It Ralph",
+    "rating": "3",
+    "review": "Not bad, but not amazing."
+  },
+  {
+    "_title": "Wristcutters",
+    "rating": "4"
+  },
+  {
+    "_title": "Y2K",
+    "rating": "2"
+  },
+  {
+    "_title": "Zombeavers",
+    "rating": "2",
+    "review": "Better than I was expecting, but..."
+  },
+  {
+    "_title": "Zombieland",
+    "rating": "4"
+  },
+  {
+    "_title": "Zombieland: Double Tap",
+    "rating": "2"
+  },
+  {
+    "_title": "Zoolander",
+    "rating": "4"
+  },
+  {
+    "_title": "a story of sahel sounds"
+  },
+  {
+    "_title": "batteries not included"
+  },
+  {
+    "_title": "before we vanish"
+  },
+  {
+    "_title": "http://www.hollywebfestival.com/awardwinners2013"
+  },
+  {
+    "_title": "leave no Trace"
+  },
+  {
+    "_title": "waiting for godot"
+  },
+  {
+    "_title": "wargames",
+    "rating": "2",
+    "review": "Good, but not amazing."
+  }
 ]
