@@ -1,6 +1,16 @@
 [
-  {"url":"https://github.com/alexbakker/alertmanager-ntfy","tags":["alert"]},
-  {"url":"https://ollama.com/","tags":["ai"]},
+  {
+    "url": "https://github.com/alexbakker/alertmanager-ntfy",
+    "tags": [
+      "alert"
+    ]
+  },
+  {
+    "url": "https://ollama.com/",
+    "tags": [
+      "ai"
+    ]
+  },
   {
     "url": "https://artificialanalysis.ai/leaderboards/providers",
     "tags": [
@@ -2521,5 +2531,17 @@
   {
     "url": "https://www.sdkc.org/where-to-kayak/"
   },
-  {"url":"https://www.messenger-matrix.de/messenger-matrix-en.html","tags":["decentralization"],"description":"The messenger matrix provides an overview of the various (technical) features of diverse messengers."}
+  {
+    "url": "https://www.messenger-matrix.de/messenger-matrix-en.html",
+    "tags": [
+      "decentralization"
+    ],
+    "description": "The messenger matrix provides an overview of the various (technical) features of diverse messengers."
+  },
+  {
+    "url": "https://ntfy.sh/",
+    "tags": [
+      "alert"
+    ]
+  }
 ]

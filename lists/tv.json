@@ -1,19 +1,64 @@
 [
-  {"title":"Animal Control"},
-  {"title":"Yo Gabba Gabba Birthday Boogie","rating":"4"},
-  {"title":"The Animation Show (Vol. 1 & 2 Boxed Set)","review":"Saw vol 1. It's great. Haven't see vol 2 yet."},
-  {"title":"Bad Thoughts","review": "👎"},
-  {"title":"Dr. Stone","review": "👍"},
-  {"title":"Good Cop Bad Cop","review": "👍"},
-  {"title":"Common Side Effects","review": "👍"},
-  {"title":"Vice Principals","review": "👎"},
-  {"title":"The Studio","review": "👍"},
-  {"title":"Frieren: Beyond Journey's End","notes":"Recommended by Patrick","review": "👍"},
-  {"title":"Delicious in Dungeon","notes":"Recommended by Patrick","review": "👍"},
-  {"title":"Dr. STONE","notes":"Recommended by Patrick"},
-  {"title":"Man on the Inside","review": "👍"},
-  {"title":"Exploding Kittens"},
-  { "title":"Kaos","review": "👎"},
+  {
+    "title": "Animal Control"
+  },
+  {
+    "title": "Yo Gabba Gabba Birthday Boogie",
+    "rating": "4"
+  },
+  {
+    "title": "The Animation Show (Vol. 1 & 2 Boxed Set)",
+    "review": "Saw vol 1. It's great. Haven't see vol 2 yet."
+  },
+  {
+    "title": "Bad Thoughts",
+    "review": "👎"
+  },
+  {
+    "title": "Dr. Stone",
+    "review": "👍"
+  },
+  {
+    "title": "Good Cop Bad Cop",
+    "review": "👍"
+  },
+  {
+    "title": "Common Side Effects",
+    "review": "👍"
+  },
+  {
+    "title": "Vice Principals",
+    "review": "👎"
+  },
+  {
+    "title": "The Studio",
+    "review": "👍"
+  },
+  {
+    "title": "Frieren: Beyond Journey's End",
+    "notes": "Recommended by Patrick",
+    "review": "👍"
+  },
+  {
+    "title": "Delicious in Dungeon",
+    "notes": "Recommended by Patrick",
+    "review": "👍"
+  },
+  {
+    "title": "Dr. STONE",
+    "notes": "Recommended by Patrick"
+  },
+  {
+    "title": "Man on the Inside",
+    "review": "👍"
+  },
+  {
+    "title": "Exploding Kittens"
+  },
+  {
+    "title": "Kaos",
+    "review": "👎"
+  },
   {
     "title": "Creature Commandos"
   },
