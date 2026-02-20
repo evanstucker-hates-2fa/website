@@ -5,6 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Links</title>
     <style>
+        :root {
+            --bg-color: #f5f5f5;
+            --text-color: #333;
+            --text-secondary: #666;
+            --label-color: #555;
+            --card-bg: white;
+            --input-bg: white;
+            --input-border: #ddd;
+            --tag-bg: #e0e0e0;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #1a1a1a;
+                --text-color: #e0e0e0;
+                --text-secondary: #aaa;
+                --label-color: #bbb;
+                --card-bg: #2d2d2d;
+                --input-bg: #2d2d2d;
+                --input-border: #444;
+                --tag-bg: #444;
+            }
+        }
+
         * {
             margin: 0;
             padding: 0;
@@ -16,12 +40,14 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f5f5f5;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            transition: background-color 0.3s, color 0.3s;
         }
 
         h1 {
             text-align: center;
-            color: #333;
+            color: var(--text-color);
             margin-bottom: 30px;
         }
 
@@ -41,14 +67,16 @@
 
         label {
             font-weight: bold;
-            color: #555;
+            color: var(--label-color);
         }
 
         input[type="text"], select {
             padding: 8px 12px;
-            border: 1px solid #ddd;
+            border: 1px solid var(--input-border);
             border-radius: 4px;
             font-size: 14px;
+            background-color: var(--input-bg);
+            color: var(--text-color);
         }
 
         input[type="text"] {
@@ -59,6 +87,17 @@
             width: 150px;
         }
 
+        .theme-toggle {
+            margin-left: auto;
+            cursor: pointer;
+            padding: 8px 16px;
+            border: 1px solid var(--input-border);
+            border-radius: 4px;
+            background-color: var(--card-bg);
+            color: var(--text-color);
+            font-size: 14px;
+        }
+
         .links-container {
             display: flex;
             flex-direction: column;
@@ -66,11 +105,11 @@
         }
 
         .link-card {
-            background: white;
+            background: var(--card-bg);
             border-radius: 8px;
             padding: 20px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
+            transition: transform 0.2s, background-color 0.3s;
         }
 
         .link-card:hover {
@@ -81,12 +120,12 @@
         .link-title {
             font-size: 18px;
             font-weight: bold;
-            color: #333;
+            color: var(--text-color);
             margin-bottom: 10px;
         }
 
         .link-title a {
-            color: #333;
+            color: var(--text-color);
             text-decoration: none;
         }
 
@@ -95,14 +134,14 @@
         }
 
         .link-url {
-            color: #666;
+            color: var(--text-secondary);
             font-size: 14px;
             margin-bottom: 10px;
             word-break: break-all;
         }
 
         .link-url a {
-            color: #666;
+            color: var(--text-secondary);
             text-decoration: none;
         }
 
@@ -119,8 +158,8 @@
 
         .tag {
             display: inline-block;
-            background: #e0e0e0;
-            color: #333;
+            background: var(--tag-bg);
+            color: var(--text-color);
             padding: 4px 8px;
             border-radius: 4px;
             font-size: 12px;
@@ -132,14 +171,14 @@
         }
 
         .link-description {
-            color: #666;
+            color: var(--text-secondary);
             font-size: 14px;
             line-height: 1.4;
         }
 
         .links-count {
             text-align: center;
-            color: #666;
+            color: var(--text-secondary);
             margin-bottom: 20px;
         }
     </style>
@@ -167,6 +206,8 @@
                 <option value="title-desc">Title (Z-A)</option>
             </select>
         </div>
+
+        <button class="theme-toggle" id="themeToggle">🌙 Dark</button>
     </div>
 
     <div class="links-count" id="linksCount"></div>
@@ -174,6 +215,51 @@
     <div class="links-container" id="linksContainer"></div>
 
     <script>
+        function initTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            if (savedTheme) {
+                applyTheme(savedTheme);
+            }
+        }
+
+        function applyTheme(theme) {
+            const root = document.documentElement;
+            if (theme === 'dark') {
+                root.style.setProperty('--bg-color', '#1a1a1a');
+                root.style.setProperty('--text-color', '#e0e0e0');
+                root.style.setProperty('--text-secondary', '#aaa');
+                root.style.setProperty('--label-color', '#bbb');
+                root.style.setProperty('--card-bg', '#2d2d2d');
+                root.style.setProperty('--input-bg', '#2d2d2d');
+                root.style.setProperty('--input-border', '#444');
+                root.style.setProperty('--tag-bg', '#444');
+            } else {
+                root.style.setProperty('--bg-color', '#f5f5f5');
+                root.style.setProperty('--text-color', '#333');
+                root.style.setProperty('--text-secondary', '#666');
+                root.style.setProperty('--label-color', '#555');
+                root.style.setProperty('--card-bg', 'white');
+                root.style.setProperty('--input-bg', 'white');
+                root.style.setProperty('--input-border', '#ddd');
+                root.style.setProperty('--tag-bg', '#e0e0e0');
+            }
+            updateThemeButton(theme);
+        }
+
+        function updateThemeButton(theme) {
+            const btn = document.getElementById('themeToggle');
+            btn.textContent = theme === 'dark' ? '☀️ Light' : '🌙 Dark';
+        }
+
+        document.getElementById('themeToggle').addEventListener('click', () => {
+            const currentTheme = localStorage.getItem('theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            localStorage.setItem('theme', newTheme);
+            applyTheme(newTheme);
+        });
+
+        initTheme();
+
         let links = [];
         let filteredLinks = [];
         let allTags = new Set();
