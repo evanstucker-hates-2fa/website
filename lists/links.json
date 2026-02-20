@@ -1,4 +1,5 @@
 [
+  {"url":"https://github.com/alexbakker/alertmanager-ntfy","tags":["alert"]},
   {"url":"https://ollama.com/","tags":["ai"]},
   {
     "url": "https://artificialanalysis.ai/leaderboards/providers",

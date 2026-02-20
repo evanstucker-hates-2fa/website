@@ -32,3 +32,8 @@ For example:
 
 Open opencode and switch the provider to Ollama (Local). Press Esc when it asks for an API key.
 Select your model.
+
+
+jq ". + [{\"_title\": \"${1}\"}]" movies.json
+
+jq 'if map(select(._title == "${1}")) | length > 0 then . else . + [{"_title": "${1}"}] end' movies.json
